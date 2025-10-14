@@ -105,7 +105,7 @@ bool32 CanTerastallize(u32 battler)
         return FALSE;
 
     // Every check passed!
-    return TRUE;
+    return FALSE;
 }
 
 // Returns a battler's Tera type.
