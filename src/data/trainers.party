@@ -9510,9 +9510,15 @@ Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Treecko
-Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Gastly @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 156 Atk / 36 Def / 36 SpA / 76 SpD / 196 Spe  
+Hasty Nature  
+- Shadow Ball  
+- Sludge Bomb  
+- Thunderbolt  
+- Will-O-Wisp
 
 === TRAINER_BRENDAN_ROUTE_110_MUDKIP ===
 Name: BRENDAN
@@ -9565,9 +9571,15 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Force Setup First Turn
 
-Torchic
-Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Gastly @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 156 Atk / 36 Def / 36 SpA / 76 SpD / 196 Spe  
+Hasty Nature  
+- Shadow Ball  
+- Sludge Bomb  
+- Thunderbolt  
+- Will-O-Wisp
 
 === TRAINER_BRENDAN_ROUTE_110_TREECKO ===
 Name: BRENDAN
@@ -9620,9 +9632,15 @@ Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Mudkip
-Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Gastly @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 156 Atk / 36 Def / 36 SpA / 76 SpD / 196 Spe  
+Hasty Nature  
+- Shadow Ball  
+- Sludge Bomb  
+- Thunderbolt  
+- Will-O-Wisp
 
 === TRAINER_BRENDAN_ROUTE_110_TORCHIC ===
 Name: BRENDAN
@@ -9675,9 +9693,15 @@ Music: Female
 Double Battle: No
 AI: Basic Trainer
 
-Treecko
-Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Gastly @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 156 Atk / 36 Def / 36 SpA / 76 SpD / 196 Spe  
+Hasty Nature  
+- Shadow Ball  
+- Sludge Bomb  
+- Thunderbolt  
+- Will-O-Wisp
 
 === TRAINER_MAY_ROUTE_110_MUDKIP ===
 Name: MAY
@@ -9730,9 +9754,15 @@ Music: Female
 Double Battle: No
 AI: Basic Trainer
 
-Torchic
-Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Gastly 
+Ability: Levitate  
+Level: 5  
+EVs: 156 Atk / 36 Def / 36 SpA / 76 SpD / 196 Spe  
+Hasty Nature  
+- Shadow Ball  
+- Sludge Bomb  
+- Thunderbolt  
+- Will-O-Wisp
 
 === TRAINER_MAY_ROUTE_110_TREECKO ===
 Name: MAY
@@ -9785,9 +9815,15 @@ Music: Female
 Double Battle: No
 AI: Basic Trainer
 
-Mudkip
-Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Gastly @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 156 Atk / 36 Def / 36 SpA / 76 SpD / 196 Spe  
+Hasty Nature  
+- Shadow Ball  
+- Sludge Bomb  
+- Thunderbolt  
+- Will-O-Wisp
 
 === TRAINER_MAY_ROUTE_110_TORCHIC ===
 Name: MAY
@@ -16873,3 +16909,1522 @@ Double Battle: No
 Kyogre
 Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+
+=== TRAINER_LC_2 ===
+Name: LCLady
+Class: Aroma Lady
+Pic: Aroma Lady
+Gender: Female
+Music: Female
+Double Battle: No
+AI: Basic Trainer
+Party Size: 2
+Pool Rules: POOL_RULESET_BASIC
+Pool Pick Functions: Default
+Pool Prune: None
+
+Diglett @ Sitrus Berry  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 SpD / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Thief  
+- Substitute  
+
+Diglett @ Liechi Berry  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 156 Atk / 80 Def / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Hidden Power
+- Substitute  
+
+Diglett @ Choice Band  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Hidden Power
+- Sludge Bomb  
+
+Snubbull @ Sitrus Berry  
+Ability: Intimidate  
+Level: 5  
+EVs: 116 HP / 196 Atk / 36 Def / 120 SpD / 36 Spe  
+Adamant Nature  
+- Double-Edge  
+- Shadow Ball  
+- Earthquake  
+- Thief  
+
+Snubbull @ Sitrus Berry  
+Ability: Intimidate  
+Level: 5  
+EVs: 196 HP / 116 Atk / 36 Def / 120 SpD / 36 Spe  
+Careful Nature  
+- Double-Edge  
+- Earthquake  
+- Shadow Ball  
+- Bulk Up  
+
+Wailmer @ Sitrus Berry  
+Ability: Water Veil  
+Level: 5  
+EVs: 36 HP / 236 Def / 200 SpA / 36 Spe  
+Bold Nature  
+- Water Spout  
+- Hidden Power
+- Icy Wind  
+- Self-Destruct  
+
+Wailmer @ Sitrus Berry  
+Ability: Water Veil  
+Level: 5  
+EVs: 36 HP / 120 SpA / 236 SpD / 116 Spe  
+Calm Nature  
+- Water Spout  
+- Hidden Power
+- Icy Wind  
+- Self-Destruct  
+
+Wailmer @ Sitrus Berry  
+Ability: Water Veil  
+Level: 5  
+EVs: 36 HP / 76 Def / 200 SpA / 196 Spe  
+Modest Nature  
+- Water Spout  
+- Hydro Pump  
+- Hidden Power
+- Self-Destruct  
+
+Wailmer @ Sitrus Berry  
+Ability: Water Veil  
+Level: 5  
+EVs: 36 HP / 40 Atk / 76 Def / 120 SpA / 236 SpD  
+Sassy Nature  
+- Surf  
+- Earthquake  
+- Hidden Power
+- Self-Destruct  
+
+Abra @ Sitrus Berry  
+Ability: Synchronize  
+Level: 5  
+EVs: 76 Def / 236 SpA / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Substitute  
+- Thief  
+- Calm Mind  
+
+Abra @ Sitrus Berry  
+Ability: Synchronize  
+Level: 5  
+EVs: 76 HP / 156 Def / 76 SpA / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Substitute  
+- Thief  
+- Calm Mind  
+
+Gastly @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 36 HP / 36 SpA / 236 SpD / 196 Spe  
+Timid Nature  
+- Thunderbolt  
+- Giga Drain  
+- Thief  
+- Explosion  
+
+Gastly @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 156 Atk / 36 Def / 36 SpA / 76 SpD / 196 Spe  
+Hasty Nature  
+- Psychic  
+- Sludge Bomb  
+- Thunderbolt  
+- Explosion  
+
+Lileep @ Sitrus Berry  
+Ability: Suction Cups  
+Level: 5  
+EVs: 68 HP / 188 Atk / 140 Def / 32 SpA / 64 SpD / 12 Spe  
+Brave Nature  
+- Rock Slide  
+- Giga Drain  
+- Hidden Power
+- Toxic  
+
+Trapinch @ Sitrus Berry  
+Ability: Arena Trap  
+Level: 5  
+EVs: 236 HP / 36 Atk / 80 Def / 80 SpD / 36 Spe  
+Careful Nature  
+- Earthquake  
+- Hidden Power
+- Quick Attack  
+- Protect  
+
+Doduo @ Choice Band  
+Ability: Early Bird  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
+Jolly Nature  
+- Double-Edge  
+- Drill Peck  
+- Quick Attack  
+- Hidden Power
+
+Doduo @ Sitrus Berry  
+Ability: Early Bird  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
+Jolly Nature  
+IVs: 29 HP  
+- Drill Peck  
+- Body Slam  
+- Quick Attack  
+- Substitute  
+
+Elekid @ Sitrus Berry  
+Ability: Static  
+Level: 5  
+EVs: 240 SpA / 236 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Thunderbolt  
+- Ice Punch  
+- Thief  
+- Substitute  
+
+Voltorb @ Sitrus Berry  
+Ability: Static  
+Level: 5  
+EVs: 116 HP / 36 Def / 160 SpA / 196 Spe  
+Timid Nature  
+- Thunderbolt  
+- Hidden Power
+- Thief  
+- Explosion  
+
+Anorith @ Sitrus Berry  
+Ability: Battle Armor  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Swords Dance  
+- Brick Break  
+- Rock Blast  
+- Substitute  
+
+Exeggcute @ Sitrus Berry  
+Ability: Chlorophyll  
+Level: 5  
+EVs: 36 HP / 36 Atk / 36 Def / 196 SpA / 156 SpD / 36 Spe  
+Mild Nature  
+- Explosion  
+- Sunny Day  
+- Solar Beam  
+- Psychic  
+
+Staryu @ Sitrus Berry  
+Ability: Natural Cure  
+Level: 5  
+EVs: 36 HP / 76 Def / 120 SpA / 236 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Hydro Pump  
+- Thunderbolt  
+- Ice Beam  
+- Hidden Power
+
+Cacnea @ Sitrus Berry  
+Ability: Sand Veil  
+Level: 5  
+EVs: 196 HP / 116 Def / 196 SpD  
+Bold Nature  
+IVs: 2 Atk / 30 SpA  
+- Spikes  
+- Giga Drain  
+- Encore  
+- Destiny Bond  
+
+Chinchou @ Sitrus Berry  
+Ability: Volt Absorb  
+Level: 5  
+EVs: 52 Def / 232 SpA / 220 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hydro Pump  
+- Substitute  
+- Hidden Power
+
+Houndour @ Sitrus Berry  
+Ability: Early Bird  
+Level: 5  
+EVs: 36 Def / 200 SpA / 116 SpD / 156 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA  
+- Fire Blast  
+- Crunch  
+- Hidden Power
+- Pursuit  
+
+Oddish @ Sitrus Berry  
+Ability: Chlorophyll  
+Level: 5  
+EVs: 76 HP / 80 Def / 236 SpA / 116 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 Def  
+- Sunny Day  
+- Solar Beam  
+- Hidden Power
+- Bullet Seed  
+
+Ponyta @ Sitrus Berry  
+Ability: Flash Fire  
+Level: 5  
+EVs: 76 Def / 236 SpA / 196 Spe  
+Timid Nature  
+- Sunny Day  
+- Fire Blast  
+- Solar Beam  
+- Substitute  
+
+Ponyta @ Sitrus Berry  
+Ability: Flash Fire  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Hasty Nature  
+- Substitute  
+- Overheat  
+- Body Slam  
+- Toxic  
+
+
+
+
+=== TRAINER_LC_3 ===
+Name: LCLady
+Class: Aroma Lady
+Pic: Aroma Lady
+Gender: Female
+Music: Female
+Double Battle: No
+AI: Basic Trainer
+Party Size: 3
+Pool Rules: POOL_RULESET_BASIC
+Pool Pick Functions: Default
+Pool Prune: None
+
+Diglett @ Sitrus Berry  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 SpD / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Thief  
+- Substitute  
+
+Diglett @ Liechi Berry  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 156 Atk / 80 Def / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Hidden Power
+- Substitute  
+
+Diglett @ Choice Band  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Hidden Power
+- Sludge Bomb  
+
+Snubbull @ Sitrus Berry  
+Ability: Intimidate  
+Level: 5  
+EVs: 116 HP / 196 Atk / 36 Def / 120 SpD / 36 Spe  
+Adamant Nature  
+- Double-Edge  
+- Shadow Ball  
+- Earthquake  
+- Thief  
+
+Snubbull @ Sitrus Berry  
+Ability: Intimidate  
+Level: 5  
+EVs: 196 HP / 116 Atk / 36 Def / 120 SpD / 36 Spe  
+Careful Nature  
+- Double-Edge  
+- Earthquake  
+- Shadow Ball  
+- Bulk Up  
+
+Wailmer @ Sitrus Berry  
+Ability: Water Veil  
+Level: 5  
+EVs: 36 HP / 236 Def / 200 SpA / 36 Spe  
+Bold Nature  
+- Water Spout  
+- Hidden Power
+- Icy Wind  
+- Self-Destruct  
+
+Wailmer @ Sitrus Berry  
+Ability: Water Veil  
+Level: 5  
+EVs: 36 HP / 120 SpA / 236 SpD / 116 Spe  
+Calm Nature  
+- Water Spout  
+- Hidden Power
+- Icy Wind  
+- Self-Destruct  
+
+Wailmer @ Sitrus Berry  
+Ability: Water Veil  
+Level: 5  
+EVs: 36 HP / 76 Def / 200 SpA / 196 Spe  
+Modest Nature  
+- Water Spout  
+- Hydro Pump  
+- Hidden Power
+- Self-Destruct  
+
+Wailmer @ Sitrus Berry  
+Ability: Water Veil  
+Level: 5  
+EVs: 36 HP / 40 Atk / 76 Def / 120 SpA / 236 SpD  
+Sassy Nature  
+- Surf  
+- Earthquake  
+- Hidden Power
+- Self-Destruct  
+
+Abra @ Sitrus Berry  
+Ability: Synchronize  
+Level: 5  
+EVs: 76 Def / 236 SpA / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Substitute  
+- Thief  
+- Calm Mind  
+
+Abra @ Sitrus Berry  
+Ability: Synchronize  
+Level: 5  
+EVs: 76 HP / 156 Def / 76 SpA / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Substitute  
+- Thief  
+- Calm Mind  
+
+Gastly @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 36 HP / 36 SpA / 236 SpD / 196 Spe  
+Timid Nature  
+- Thunderbolt  
+- Giga Drain  
+- Thief  
+- Explosion  
+
+Gastly @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 156 Atk / 36 Def / 36 SpA / 76 SpD / 196 Spe  
+Hasty Nature  
+- Psychic  
+- Sludge Bomb  
+- Thunderbolt  
+- Explosion  
+
+Lileep @ Sitrus Berry  
+Ability: Suction Cups  
+Level: 5  
+EVs: 68 HP / 188 Atk / 140 Def / 32 SpA / 64 SpD / 12 Spe  
+Brave Nature  
+- Rock Slide  
+- Giga Drain  
+- Hidden Power
+- Toxic  
+
+Trapinch @ Sitrus Berry  
+Ability: Arena Trap  
+Level: 5  
+EVs: 236 HP / 36 Atk / 80 Def / 80 SpD / 36 Spe  
+Careful Nature  
+- Earthquake  
+- Hidden Power
+- Quick Attack  
+- Protect  
+
+Doduo @ Choice Band  
+Ability: Early Bird  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
+Jolly Nature  
+- Double-Edge  
+- Drill Peck  
+- Quick Attack  
+- Hidden Power
+
+Doduo @ Sitrus Berry  
+Ability: Early Bird  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
+Jolly Nature  
+IVs: 29 HP  
+- Drill Peck  
+- Body Slam  
+- Quick Attack  
+- Substitute  
+
+Elekid @ Sitrus Berry  
+Ability: Static  
+Level: 5  
+EVs: 240 SpA / 236 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Thunderbolt  
+- Ice Punch  
+- Thief  
+- Substitute  
+
+Voltorb @ Sitrus Berry  
+Ability: Static  
+Level: 5  
+EVs: 116 HP / 36 Def / 160 SpA / 196 Spe  
+Timid Nature  
+- Thunderbolt  
+- Hidden Power
+- Thief  
+- Explosion  
+
+Anorith @ Sitrus Berry  
+Ability: Battle Armor  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Swords Dance  
+- Brick Break  
+- Rock Blast  
+- Substitute  
+
+Exeggcute @ Sitrus Berry  
+Ability: Chlorophyll  
+Level: 5  
+EVs: 36 HP / 36 Atk / 36 Def / 196 SpA / 156 SpD / 36 Spe  
+Mild Nature  
+- Explosion  
+- Sunny Day  
+- Solar Beam  
+- Psychic  
+
+Staryu @ Sitrus Berry  
+Ability: Natural Cure  
+Level: 5  
+EVs: 36 HP / 76 Def / 120 SpA / 236 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Hydro Pump  
+- Thunderbolt  
+- Ice Beam  
+- Hidden Power
+
+Cacnea @ Sitrus Berry  
+Ability: Sand Veil  
+Level: 5  
+EVs: 196 HP / 116 Def / 196 SpD  
+Bold Nature  
+IVs: 2 Atk / 30 SpA  
+- Spikes  
+- Giga Drain  
+- Encore  
+- Destiny Bond  
+
+Chinchou @ Sitrus Berry  
+Ability: Volt Absorb  
+Level: 5  
+EVs: 52 Def / 232 SpA / 220 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hydro Pump  
+- Substitute  
+- Hidden Power
+
+Houndour @ Sitrus Berry  
+Ability: Early Bird  
+Level: 5  
+EVs: 36 Def / 200 SpA / 116 SpD / 156 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA  
+- Fire Blast  
+- Crunch  
+- Hidden Power
+- Pursuit  
+
+Oddish @ Sitrus Berry  
+Ability: Chlorophyll  
+Level: 5  
+EVs: 76 HP / 80 Def / 236 SpA / 116 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 Def  
+- Sunny Day  
+- Solar Beam  
+- Hidden Power
+- Bullet Seed  
+
+Ponyta @ Sitrus Berry  
+Ability: Flash Fire  
+Level: 5  
+EVs: 76 Def / 236 SpA / 196 Spe  
+Timid Nature  
+- Sunny Day  
+- Fire Blast  
+- Solar Beam  
+- Substitute  
+
+Ponyta @ Sitrus Berry  
+Ability: Flash Fire  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Hasty Nature  
+- Substitute  
+- Overheat  
+- Body Slam  
+- Toxic  
+
+
+
+
+=== TRAINER_LC_4 ===
+Name: LCLady
+Class: Aroma Lady
+Pic: Aroma Lady
+Gender: Female
+Music: Female
+Double Battle: No
+AI: Basic Trainer
+Party Size: 4
+Pool Rules: POOL_RULESET_BASIC
+Pool Pick Functions: Default
+Pool Prune: None
+
+Diglett @ Sitrus Berry  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 SpD / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Thief  
+- Substitute  
+
+Diglett @ Liechi Berry  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 156 Atk / 80 Def / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Hidden Power
+- Substitute  
+
+Diglett @ Choice Band  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Hidden Power
+- Sludge Bomb  
+
+Snubbull @ Sitrus Berry  
+Ability: Intimidate  
+Level: 5  
+EVs: 116 HP / 196 Atk / 36 Def / 120 SpD / 36 Spe  
+Adamant Nature  
+- Double-Edge  
+- Shadow Ball  
+- Earthquake  
+- Thief  
+
+Snubbull @ Sitrus Berry  
+Ability: Intimidate  
+Level: 5  
+EVs: 196 HP / 116 Atk / 36 Def / 120 SpD / 36 Spe  
+Careful Nature  
+- Double-Edge  
+- Earthquake  
+- Shadow Ball  
+- Bulk Up  
+
+Wailmer @ Sitrus Berry  
+Ability: Water Veil  
+Level: 5  
+EVs: 36 HP / 236 Def / 200 SpA / 36 Spe  
+Bold Nature  
+- Water Spout  
+- Hidden Power
+- Icy Wind  
+- Self-Destruct  
+
+Wailmer @ Sitrus Berry  
+Ability: Water Veil  
+Level: 5  
+EVs: 36 HP / 120 SpA / 236 SpD / 116 Spe  
+Calm Nature  
+- Water Spout  
+- Hidden Power
+- Icy Wind  
+- Self-Destruct  
+
+Wailmer @ Sitrus Berry  
+Ability: Water Veil  
+Level: 5  
+EVs: 36 HP / 76 Def / 200 SpA / 196 Spe  
+Modest Nature  
+- Water Spout  
+- Hydro Pump  
+- Hidden Power
+- Self-Destruct  
+
+Wailmer @ Sitrus Berry  
+Ability: Water Veil  
+Level: 5  
+EVs: 36 HP / 40 Atk / 76 Def / 120 SpA / 236 SpD  
+Sassy Nature  
+- Surf  
+- Earthquake  
+- Hidden Power
+- Self-Destruct  
+
+Abra @ Sitrus Berry  
+Ability: Synchronize  
+Level: 5  
+EVs: 76 Def / 236 SpA / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Substitute  
+- Thief  
+- Calm Mind  
+
+Abra @ Sitrus Berry  
+Ability: Synchronize  
+Level: 5  
+EVs: 76 HP / 156 Def / 76 SpA / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Substitute  
+- Thief  
+- Calm Mind  
+
+Gastly @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 36 HP / 36 SpA / 236 SpD / 196 Spe  
+Timid Nature  
+- Thunderbolt  
+- Giga Drain  
+- Thief  
+- Explosion  
+
+Gastly @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 156 Atk / 36 Def / 36 SpA / 76 SpD / 196 Spe  
+Hasty Nature  
+- Psychic  
+- Sludge Bomb  
+- Thunderbolt  
+- Explosion  
+
+Lileep @ Sitrus Berry  
+Ability: Suction Cups  
+Level: 5  
+EVs: 68 HP / 188 Atk / 140 Def / 32 SpA / 64 SpD / 12 Spe  
+Brave Nature  
+- Rock Slide  
+- Giga Drain  
+- Hidden Power
+- Toxic  
+
+Trapinch @ Sitrus Berry  
+Ability: Arena Trap  
+Level: 5  
+EVs: 236 HP / 36 Atk / 80 Def / 80 SpD / 36 Spe  
+Careful Nature  
+- Earthquake  
+- Hidden Power
+- Quick Attack  
+- Protect  
+
+Doduo @ Choice Band  
+Ability: Early Bird  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
+Jolly Nature  
+- Double-Edge  
+- Drill Peck  
+- Quick Attack  
+- Hidden Power
+
+Doduo @ Sitrus Berry  
+Ability: Early Bird  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
+Jolly Nature  
+IVs: 29 HP  
+- Drill Peck  
+- Body Slam  
+- Quick Attack  
+- Substitute  
+
+Elekid @ Sitrus Berry  
+Ability: Static  
+Level: 5  
+EVs: 240 SpA / 236 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Thunderbolt  
+- Ice Punch  
+- Thief  
+- Substitute  
+
+Voltorb @ Sitrus Berry  
+Ability: Static  
+Level: 5  
+EVs: 116 HP / 36 Def / 160 SpA / 196 Spe  
+Timid Nature  
+- Thunderbolt  
+- Hidden Power
+- Thief  
+- Explosion  
+
+Anorith @ Sitrus Berry  
+Ability: Battle Armor  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Swords Dance  
+- Brick Break  
+- Rock Blast  
+- Substitute  
+
+Exeggcute @ Sitrus Berry  
+Ability: Chlorophyll  
+Level: 5  
+EVs: 36 HP / 36 Atk / 36 Def / 196 SpA / 156 SpD / 36 Spe  
+Mild Nature  
+- Explosion  
+- Sunny Day  
+- Solar Beam  
+- Psychic  
+
+Staryu @ Sitrus Berry  
+Ability: Natural Cure  
+Level: 5  
+EVs: 36 HP / 76 Def / 120 SpA / 236 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Hydro Pump  
+- Thunderbolt  
+- Ice Beam  
+- Hidden Power
+
+Cacnea @ Sitrus Berry  
+Ability: Sand Veil  
+Level: 5  
+EVs: 196 HP / 116 Def / 196 SpD  
+Bold Nature  
+IVs: 2 Atk / 30 SpA  
+- Spikes  
+- Giga Drain  
+- Encore  
+- Destiny Bond  
+
+Chinchou @ Sitrus Berry  
+Ability: Volt Absorb  
+Level: 5  
+EVs: 52 Def / 232 SpA / 220 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hydro Pump  
+- Substitute  
+- Hidden Power
+
+Houndour @ Sitrus Berry  
+Ability: Early Bird  
+Level: 5  
+EVs: 36 Def / 200 SpA / 116 SpD / 156 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA  
+- Fire Blast  
+- Crunch  
+- Hidden Power
+- Pursuit  
+
+Oddish @ Sitrus Berry  
+Ability: Chlorophyll  
+Level: 5  
+EVs: 76 HP / 80 Def / 236 SpA / 116 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 Def  
+- Sunny Day  
+- Solar Beam  
+- Hidden Power
+- Bullet Seed  
+
+Ponyta @ Sitrus Berry  
+Ability: Flash Fire  
+Level: 5  
+EVs: 76 Def / 236 SpA / 196 Spe  
+Timid Nature  
+- Sunny Day  
+- Fire Blast  
+- Solar Beam  
+- Substitute  
+
+Ponyta @ Sitrus Berry  
+Ability: Flash Fire  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Hasty Nature  
+- Substitute  
+- Overheat  
+- Body Slam  
+- Toxic  
+
+
+
+
+=== TRAINER_LC_5 ===
+Name: LCLady
+Class: Aroma Lady
+Pic: Aroma Lady
+Gender: Female
+Music: Female
+Double Battle: No
+AI: Basic Trainer
+Party Size: 5
+Pool Rules: POOL_RULESET_BASIC
+Pool Pick Functions: Default
+Pool Prune: None
+
+Diglett @ Sitrus Berry  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 SpD / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Thief  
+- Substitute  
+
+Diglett @ Liechi Berry  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 156 Atk / 80 Def / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Hidden Power
+- Substitute  
+
+Diglett @ Choice Band  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Hidden Power
+- Sludge Bomb  
+
+Snubbull @ Sitrus Berry  
+Ability: Intimidate  
+Level: 5  
+EVs: 116 HP / 196 Atk / 36 Def / 120 SpD / 36 Spe  
+Adamant Nature  
+- Double-Edge  
+- Shadow Ball  
+- Earthquake  
+- Thief  
+
+Snubbull @ Sitrus Berry  
+Ability: Intimidate  
+Level: 5  
+EVs: 196 HP / 116 Atk / 36 Def / 120 SpD / 36 Spe  
+Careful Nature  
+- Double-Edge  
+- Earthquake  
+- Shadow Ball  
+- Bulk Up  
+
+Wailmer @ Sitrus Berry  
+Ability: Water Veil  
+Level: 5  
+EVs: 36 HP / 236 Def / 200 SpA / 36 Spe  
+Bold Nature  
+- Water Spout  
+- Hidden Power
+- Icy Wind  
+- Self-Destruct  
+
+Wailmer @ Sitrus Berry  
+Ability: Water Veil  
+Level: 5  
+EVs: 36 HP / 120 SpA / 236 SpD / 116 Spe  
+Calm Nature  
+- Water Spout  
+- Hidden Power
+- Icy Wind  
+- Self-Destruct  
+
+Wailmer @ Sitrus Berry  
+Ability: Water Veil  
+Level: 5  
+EVs: 36 HP / 76 Def / 200 SpA / 196 Spe  
+Modest Nature  
+- Water Spout  
+- Hydro Pump  
+- Hidden Power
+- Self-Destruct  
+
+Wailmer @ Sitrus Berry  
+Ability: Water Veil  
+Level: 5  
+EVs: 36 HP / 40 Atk / 76 Def / 120 SpA / 236 SpD  
+Sassy Nature  
+- Surf  
+- Earthquake  
+- Hidden Power
+- Self-Destruct  
+
+Abra @ Sitrus Berry  
+Ability: Synchronize  
+Level: 5  
+EVs: 76 Def / 236 SpA / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Substitute  
+- Thief  
+- Calm Mind  
+
+Abra @ Sitrus Berry  
+Ability: Synchronize  
+Level: 5  
+EVs: 76 HP / 156 Def / 76 SpA / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Substitute  
+- Thief  
+- Calm Mind  
+
+Gastly @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 36 HP / 36 SpA / 236 SpD / 196 Spe  
+Timid Nature  
+- Thunderbolt  
+- Giga Drain  
+- Thief  
+- Explosion  
+
+Gastly @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 156 Atk / 36 Def / 36 SpA / 76 SpD / 196 Spe  
+Hasty Nature  
+- Psychic  
+- Sludge Bomb  
+- Thunderbolt  
+- Explosion  
+
+Lileep @ Sitrus Berry  
+Ability: Suction Cups  
+Level: 5  
+EVs: 68 HP / 188 Atk / 140 Def / 32 SpA / 64 SpD / 12 Spe  
+Brave Nature  
+- Rock Slide  
+- Giga Drain  
+- Hidden Power
+- Toxic  
+
+Trapinch @ Sitrus Berry  
+Ability: Arena Trap  
+Level: 5  
+EVs: 236 HP / 36 Atk / 80 Def / 80 SpD / 36 Spe  
+Careful Nature  
+- Earthquake  
+- Hidden Power
+- Quick Attack  
+- Protect  
+
+Doduo @ Choice Band  
+Ability: Early Bird  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
+Jolly Nature  
+- Double-Edge  
+- Drill Peck  
+- Quick Attack  
+- Hidden Power
+
+Doduo @ Sitrus Berry  
+Ability: Early Bird  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
+Jolly Nature  
+IVs: 29 HP  
+- Drill Peck  
+- Body Slam  
+- Quick Attack  
+- Substitute  
+
+Elekid @ Sitrus Berry  
+Ability: Static  
+Level: 5  
+EVs: 240 SpA / 236 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Thunderbolt  
+- Ice Punch  
+- Thief  
+- Substitute  
+
+Voltorb @ Sitrus Berry  
+Ability: Static  
+Level: 5  
+EVs: 116 HP / 36 Def / 160 SpA / 196 Spe  
+Timid Nature  
+- Thunderbolt  
+- Hidden Power
+- Thief  
+- Explosion  
+
+Anorith @ Sitrus Berry  
+Ability: Battle Armor  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Swords Dance  
+- Brick Break  
+- Rock Blast  
+- Substitute  
+
+Exeggcute @ Sitrus Berry  
+Ability: Chlorophyll  
+Level: 5  
+EVs: 36 HP / 36 Atk / 36 Def / 196 SpA / 156 SpD / 36 Spe  
+Mild Nature  
+- Explosion  
+- Sunny Day  
+- Solar Beam  
+- Psychic  
+
+Staryu @ Sitrus Berry  
+Ability: Natural Cure  
+Level: 5  
+EVs: 36 HP / 76 Def / 120 SpA / 236 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Hydro Pump  
+- Thunderbolt  
+- Ice Beam  
+- Hidden Power
+
+Cacnea @ Sitrus Berry  
+Ability: Sand Veil  
+Level: 5  
+EVs: 196 HP / 116 Def / 196 SpD  
+Bold Nature  
+IVs: 2 Atk / 30 SpA  
+- Spikes  
+- Giga Drain  
+- Encore  
+- Destiny Bond  
+
+Chinchou @ Sitrus Berry  
+Ability: Volt Absorb  
+Level: 5  
+EVs: 52 Def / 232 SpA / 220 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hydro Pump  
+- Substitute  
+- Hidden Power
+
+Houndour @ Sitrus Berry  
+Ability: Early Bird  
+Level: 5  
+EVs: 36 Def / 200 SpA / 116 SpD / 156 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA  
+- Fire Blast  
+- Crunch  
+- Hidden Power
+- Pursuit  
+
+Oddish @ Sitrus Berry  
+Ability: Chlorophyll  
+Level: 5  
+EVs: 76 HP / 80 Def / 236 SpA / 116 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 Def  
+- Sunny Day  
+- Solar Beam  
+- Hidden Power
+- Bullet Seed  
+
+Ponyta @ Sitrus Berry  
+Ability: Flash Fire  
+Level: 5  
+EVs: 76 Def / 236 SpA / 196 Spe  
+Timid Nature  
+- Sunny Day  
+- Fire Blast  
+- Solar Beam  
+- Substitute  
+
+Ponyta @ Sitrus Berry  
+Ability: Flash Fire  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Hasty Nature  
+- Substitute  
+- Overheat  
+- Body Slam  
+- Toxic  
+
+
+
+
+=== TRAINER_LC_6 ===
+Name: LCLady
+Class: Aroma Lady
+Pic: Aroma Lady
+Gender: Female
+Music: Female
+Double Battle: No
+AI: Basic Trainer
+Party Size: 6
+Pool Rules: POOL_RULESET_BASIC
+Pool Pick Functions: Default
+Pool Prune: None
+
+Diglett @ Sitrus Berry  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 SpD / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Thief  
+- Substitute  
+
+Diglett @ Liechi Berry  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 156 Atk / 80 Def / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Hidden Power
+- Substitute  
+
+Diglett @ Choice Band  
+Ability: Arena Trap  
+Level: 5  
+EVs: 36 HP / 236 Atk / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Hidden Power
+- Sludge Bomb  
+
+Snubbull @ Sitrus Berry  
+Ability: Intimidate  
+Level: 5  
+EVs: 116 HP / 196 Atk / 36 Def / 120 SpD / 36 Spe  
+Adamant Nature  
+- Double-Edge  
+- Shadow Ball  
+- Earthquake  
+- Thief  
+
+Snubbull @ Sitrus Berry  
+Ability: Intimidate  
+Level: 5  
+EVs: 196 HP / 116 Atk / 36 Def / 120 SpD / 36 Spe  
+Careful Nature  
+- Double-Edge  
+- Earthquake  
+- Shadow Ball  
+- Bulk Up  
+
+Wailmer @ Sitrus Berry  
+Ability: Water Veil  
+Level: 5  
+EVs: 36 HP / 236 Def / 200 SpA / 36 Spe  
+Bold Nature  
+- Water Spout  
+- Hidden Power
+- Icy Wind  
+- Self-Destruct  
+
+Wailmer @ Sitrus Berry  
+Ability: Water Veil  
+Level: 5  
+EVs: 36 HP / 120 SpA / 236 SpD / 116 Spe  
+Calm Nature  
+- Water Spout  
+- Hidden Power
+- Icy Wind  
+- Self-Destruct  
+
+Wailmer @ Sitrus Berry  
+Ability: Water Veil  
+Level: 5  
+EVs: 36 HP / 76 Def / 200 SpA / 196 Spe  
+Modest Nature  
+- Water Spout  
+- Hydro Pump  
+- Hidden Power
+- Self-Destruct  
+
+Wailmer @ Sitrus Berry  
+Ability: Water Veil  
+Level: 5  
+EVs: 36 HP / 40 Atk / 76 Def / 120 SpA / 236 SpD  
+Sassy Nature  
+- Surf  
+- Earthquake  
+- Hidden Power
+- Self-Destruct  
+
+Abra @ Sitrus Berry  
+Ability: Synchronize  
+Level: 5  
+EVs: 76 Def / 236 SpA / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Substitute  
+- Thief  
+- Calm Mind  
+
+Abra @ Sitrus Berry  
+Ability: Synchronize  
+Level: 5  
+EVs: 76 HP / 156 Def / 76 SpA / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psychic  
+- Substitute  
+- Thief  
+- Calm Mind  
+
+Gastly @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 36 HP / 36 SpA / 236 SpD / 196 Spe  
+Timid Nature  
+- Thunderbolt  
+- Giga Drain  
+- Thief  
+- Explosion  
+
+Gastly @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 156 Atk / 36 Def / 36 SpA / 76 SpD / 196 Spe  
+Hasty Nature  
+- Psychic  
+- Sludge Bomb  
+- Thunderbolt  
+- Explosion  
+
+Lileep @ Sitrus Berry  
+Ability: Suction Cups  
+Level: 5  
+EVs: 68 HP / 188 Atk / 140 Def / 32 SpA / 64 SpD / 12 Spe  
+Brave Nature  
+- Rock Slide  
+- Giga Drain  
+- Hidden Power
+- Toxic  
+
+Trapinch @ Sitrus Berry  
+Ability: Arena Trap  
+Level: 5  
+EVs: 236 HP / 36 Atk / 80 Def / 80 SpD / 36 Spe  
+Careful Nature  
+- Earthquake  
+- Hidden Power 
+- Quick Attack  
+- Protect  
+
+Doduo @ Choice Band  
+Ability: Early Bird  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
+Jolly Nature  
+- Double-Edge  
+- Drill Peck  
+- Quick Attack  
+- Hidden Power
+
+Doduo @ Sitrus Berry  
+Ability: Early Bird  
+Level: 5  
+EVs: 236 Atk / 236 Spe  
+Jolly Nature  
+IVs: 29 HP  
+- Drill Peck  
+- Body Slam  
+- Quick Attack  
+- Substitute  
+
+Elekid @ Sitrus Berry  
+Ability: Static  
+Level: 5  
+EVs: 240 SpA / 236 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Thunderbolt  
+- Ice Punch  
+- Thief  
+- Substitute  
+
+Voltorb @ Sitrus Berry  
+Ability: Static  
+Level: 5  
+EVs: 116 HP / 36 Def / 160 SpA / 196 Spe  
+Timid Nature  
+- Thunderbolt  
+- Hidden Power
+- Thief  
+- Explosion  
+
+Anorith @ Sitrus Berry  
+Ability: Battle Armor  
+Level: 5  
+EVs: 236 Atk / 36 Def / 236 Spe  
+Jolly Nature  
+- Swords Dance  
+- Brick Break  
+- Rock Blast  
+- Substitute  
+
+Exeggcute @ Sitrus Berry  
+Ability: Chlorophyll  
+Level: 5  
+EVs: 36 HP / 36 Atk / 36 Def / 196 SpA / 156 SpD / 36 Spe  
+Mild Nature  
+- Explosion  
+- Sunny Day  
+- Solar Beam  
+- Psychic  
+
+Staryu @ Sitrus Berry  
+Ability: Natural Cure  
+Level: 5  
+EVs: 36 HP / 76 Def / 120 SpA / 236 Spe  
+Timid Nature  
+IVs: 2 Atk / 30 SpA  
+- Hydro Pump  
+- Thunderbolt  
+- Ice Beam  
+- Hidden Power
+
+Cacnea @ Sitrus Berry  
+Ability: Sand Veil  
+Level: 5  
+EVs: 196 HP / 116 Def / 196 SpD  
+Bold Nature  
+IVs: 2 Atk / 30 SpA  
+- Spikes  
+- Giga Drain  
+- Encore  
+- Destiny Bond  
+
+Chinchou @ Sitrus Berry  
+Ability: Volt Absorb  
+Level: 5  
+EVs: 52 Def / 232 SpA / 220 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hydro Pump  
+- Substitute  
+- Hidden Power
+
+Houndour @ Sitrus Berry  
+Ability: Early Bird  
+Level: 5  
+EVs: 36 Def / 200 SpA / 116 SpD / 156 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 SpA  
+- Fire Blast  
+- Crunch  
+- Hidden Power
+- Pursuit  
+
+Oddish @ Sitrus Berry  
+Ability: Chlorophyll  
+Level: 5  
+EVs: 76 HP / 80 Def / 236 SpA / 116 Spe  
+Modest Nature  
+IVs: 2 Atk / 30 Def  
+- Sunny Day  
+- Solar Beam  
+- Hidden Power
+- Bullet Seed  
+
+Ponyta @ Sitrus Berry  
+Ability: Flash Fire  
+Level: 5  
+EVs: 76 Def / 236 SpA / 196 Spe  
+Timid Nature  
+- Sunny Day  
+- Fire Blast  
+- Solar Beam  
+- Substitute  
+
+Ponyta @ Sitrus Berry  
+Ability: Flash Fire  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Hasty Nature  
+- Substitute  
+- Overheat  
+- Body Slam  
+- Toxic  
+
