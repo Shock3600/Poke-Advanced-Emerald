@@ -37,6 +37,20 @@ OldaleTown_PokemonCenter_1F_EventScript_WirelessClubAvailable::
 	release
 	end
 
+OldaleTown_PokemonCenter_1F_EventScript_Elder_Tera::
+	lock
+	faceplayer
+	randomelement TYPE_GRASS, TYPE_GHOST, TYPE_GROUND, TYPE_ICE
+	copyvar VAR_TEMP_1, VAR_RESULT
+	setteratype VAR_RESULT, 1
+	bufferstdstring STR_VAR_1, VAR_TEMP_1
+	msgbox OldaleTown_PokemonCenter_1F_Text_Elder_Tera, MSGBOX_DEFAULT
+	release
+	end
+
+OldaleTown_PokemonCenter_1F_Text_Elder_Tera:
+	.string "{STR_VAR_3}$"
+
 OldaleTown_PokemonCenter_1F_Text_TrainersCanUsePC:
 	.string "That PC in the corner there is\n"
 	.string "for any POKéMON TRAINER to use.\p"
