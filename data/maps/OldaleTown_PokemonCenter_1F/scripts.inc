@@ -49,7 +49,7 @@ OldaleTown_PokemonCenter_1F_EventScript_Elder_Tera::
 	end
 
 OldaleTown_PokemonCenter_1F_Text_Elder_Tera:
-	.string "{STR_VAR_3}$"
+	.string "{STR_VAR_1}$"
 
 OldaleTown_PokemonCenter_1F_Text_TrainersCanUsePC:
 	.string "That PC in the corner there is\n"
