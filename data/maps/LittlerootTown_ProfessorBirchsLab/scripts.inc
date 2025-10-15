@@ -111,6 +111,78 @@ LittlerootTown_ProfessorBirchsLab_EventScript_GiveStarterEvent::
 	waitmessage
 	playfanfare MUS_OBTAIN_ITEM
 	waitfanfare
+	additem ITEM_ADAMANT_MINT, 99
+	additem ITEM_MODEST_MINT, 99
+	additem ITEM_JOLLY_MINT, 99
+	additem ITEM_TIMID_MINT, 99
+	additem ITEM_NAIVE_MINT, 99
+	additem ITEM_RASH_MINT, 99
+	additem ITEM_BOLD_MINT, 99
+	additem ITEM_IMPISH_MINT, 99
+	additem ITEM_MILD_MINT, 99
+	additem ITEM_CALM_MINT, 99
+	additem ITEM_CAREFUL_MINT, 99
+	additem ITEM_HP_UP, 999
+	additem ITEM_PROTEIN, 999
+	additem ITEM_IRON, 999
+	additem ITEM_CALCIUM, 999
+	additem ITEM_ZINC, 999
+	additem ITEM_CARBOS, 999
+	additem ITEM_PP_MAX, 999
+	additem ITEM_TM_FOCUS_PUNCH
+	additem ITEM_TM_DRAGON_CLAW
+	additem ITEM_TM_WATER_PULSE
+	additem ITEM_TM_CALM_MIND
+	additem ITEM_TM_ROAR
+	additem ITEM_TM_TOXIC
+	additem ITEM_TM_HAIL
+	additem ITEM_TM_BULK_UP
+	additem ITEM_TM_BULLET_SEED
+	additem ITEM_TM_HIDDEN_POWER
+	additem ITEM_TM_SUNNY_DAY
+	additem ITEM_TM_TAUNT
+	additem ITEM_TM_ICE_BEAM
+	additem ITEM_TM_BLIZZARD
+	additem ITEM_TM_HYPER_BEAM
+	additem ITEM_TM_LIGHT_SCREEN
+	additem ITEM_TM_PROTECT
+	additem ITEM_TM_RAIN_DANCE
+	additem ITEM_TM_GIGA_DRAIN
+	additem ITEM_TM_SAFEGUARD
+	additem ITEM_TM_FRUSTRATION
+	additem ITEM_TM_SOLAR_BEAM
+	additem ITEM_TM_IRON_TAIL
+	additem ITEM_TM_THUNDERBOLT
+	additem ITEM_TM_THUNDER
+	additem ITEM_TM_EARTHQUAKE
+	additem ITEM_TM_RETURN
+	additem ITEM_TM_DIG
+	additem ITEM_TM_PSYCHIC
+	additem ITEM_TM_SHADOW_BALL
+	additem ITEM_TM_BRICK_BREAK
+	additem ITEM_TM_DOUBLE_TEAM
+	additem ITEM_TM_REFLECT
+	additem ITEM_TM_SHOCK_WAVE
+	additem ITEM_TM_FLAMETHROWER
+	additem ITEM_TM_SLUDGE_BOMB
+	additem ITEM_TM_SANDSTORM
+	additem ITEM_TM_FIRE_BLAST
+	additem ITEM_TM_ROCK_TOMB
+	additem ITEM_TM_AERIAL_ACE
+	additem ITEM_TM_TORMENT
+	additem ITEM_TM_FACADE
+	additem ITEM_TM_SECRET_POWER
+	additem ITEM_TM_REST
+	additem ITEM_TM_ATTRACT
+	additem ITEM_TM_THIEF
+	additem ITEM_TM_STEEL_WING
+	additem ITEM_TM_SKILL_SWAP
+	additem ITEM_TM_SNATCH
+	additem ITEM_TM_OVERHEAT
+	additem ITEM_SITRUS_BERRY, 99
+	additem ITEM_LUM_BERRY, 99
+	additem ITEM_LIECHI_BERRY, 99
+	additem ITEM_CHOICE_BAND, 6
 	msgbox LittlerootTown_ProfessorBirchsLab_Text_WhyNotGiveNicknameToMon, MSGBOX_YESNO
 	goto_if_eq VAR_RESULT, YES, LittlerootTown_ProfessorBirchsLab_EventScript_NicknameStarter
 	goto_if_eq VAR_RESULT, NO, LittlerootTown_ProfessorBirchsLab_EventScript_GoSeeRival
