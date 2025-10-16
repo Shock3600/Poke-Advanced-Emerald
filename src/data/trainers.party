@@ -5466,33 +5466,72 @@ Class: Leader
 Pic: Leader Roxanne
 Gender: Female
 Music: Female
-Items: Potion / Potion
 Double Battle: No
 AI: Basic Trainer
 
-Geodude
-Level: 12
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Tackle
-- Defense Curl
-- Rock Throw
-- Rock Tomb
+Abra @ Sitrus Berry  
+Ability: Synchronize  
+Level: 5  
+EVs: 76 HP / 76 Def / 76 SpA / 76 SpD / 196 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Barrier  
+- Calm Mind  
+- Psychic  
+- Thief  
 
-Geodude
-Level: 12
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Tackle
-- Defense Curl
-- Rock Throw
-- Rock Tomb
+Ponyta @ Sitrus Berry  
+Ability: Flash Fire  
+Level: 5  
+EVs: 236 SpA / 76 SpD / 196 Spe  
+Hasty Nature  
+- Substitute  
+- Overheat  
+- Body Slam  
+- Toxic  
 
-Nosepass @ Oran Berry
-Level: 15
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Block
-- Harden
-- Tackle
-- Rock Tomb
+Trapinch @ Sitrus Berry  
+Ability: Arena Trap  
+Level: 5  
+EVs: 156 HP / 76 Def / 156 SpD / 116 Spe  
+Impish Nature  
+- Earthquake  
+- Rock Slide  
+- Quick Attack  
+- Protect  
+
+Anorith @ Sitrus Berry  
+Ability: Battle Armor  
+Level: 5  
+EVs: 76 HP / 76 Atk / 116 Def / 236 Spe  
+Jolly Nature  
+- Swords Dance  
+- Rock Blast  
+- Brick Break  
+- Double-Edge  
+
+Wailmer @ Sitrus Berry  
+Ability: Water Veil  
+Tera Type: Grass
+Level: 5  
+EVs: 36 HP / 120 SpA / 236 SpD / 116 Spe  
+Calm Nature  
+- Water Spout  
+- Hidden Power
+- Icy Wind  
+- Self-Destruct  
+
+Elekid @ Sitrus Berry  
+Ability: Static  
+Tera Type: Ghost
+Level: 5  
+EVs: 172 Atk / 76 SpA / 236 Spe  
+Hasty Nature  
+- Thunderbolt  
+- Ice Punch  
+- Hidden Power
+- Substitute  
+
 
 === TRAINER_BRAWLY_1 ===
 Name: BRAWLY
