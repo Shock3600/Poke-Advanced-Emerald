@@ -38,18 +38,30 @@ OldaleTown_PokemonCenter_1F_EventScript_WirelessClubAvailable::
 	end
 
 OldaleTown_PokemonCenter_1F_EventScript_Elder_Tera::
-	lock
-	faceplayer
-	randomelement TYPE_GRASS, TYPE_GHOST, TYPE_GROUND, TYPE_ICE
-	copyvar VAR_TEMP_1, VAR_RESULT
-	setteratype VAR_RESULT, 1
-	bufferstdstring STR_VAR_1, VAR_TEMP_1
-	msgbox OldaleTown_PokemonCenter_1F_Text_Elder_Tera, MSGBOX_DEFAULT
-	release
-	end
-
-OldaleTown_PokemonCenter_1F_Text_Elder_Tera:
-	.string "{STR_VAR_1}$"
+    lock
+    faceplayer
+    //msgbox "I can change the Hidden Power Type of a Pokemon.", MSGBOX_DEFAULT
+    call ChoosePartyMon
+    dynmultipush TYPE_FIGHTING, TYPE_FIGHTING
+    dynmultipush TYPE_FLYING, TYPE_FLYING
+    dynmultipush TYPE_POISON, TYPE_POISON
+    dynmultipush TYPE_GROUND, TYPE_GROUND
+    dynmultipush TYPE_ROCK, TYPE_ROCK
+    dynmultipush TYPE_BUG, TYPE_BUG
+    dynmultipush TYPE_GHOST, TYPE_GHOST
+    dynmultipush TYPE_STEEL, TYPE_STEEL
+    dynmultipush TYPE_FIRE, TYPE_FIRE
+    dynmultipush TYPE_WATER, TYPE_WATER
+    dynmultipush TYPE_GRASS, TYPE_GRASS
+    dynmultipush TYPE_ELECTRIC, TYPE_ELECTRIC
+    dynmultipush TYPE_PSYCHIC, TYPE_PSYCHIC
+    dynmultipush TYPE_ICE, TYPE_ICE
+    dynmultipush TYPE_DRAGON, TYPE_DRAGON
+    dynmultipush TYPE_DARK, TYPE_DARK
+    dynmultistack 0, 0, TRUE, 6, FALSE, 0, DYN_MULTICHOICE_CB_NONE
+    copyvar VAR_0x8005, VAR_RESULT
+    //special(ChangeTeraType)
+    end
 
 OldaleTown_PokemonCenter_1F_Text_TrainersCanUsePC:
 	.string "That PC in the corner there is\n"
