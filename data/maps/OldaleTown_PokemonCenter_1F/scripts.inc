@@ -69,6 +69,19 @@ OldaleTown_PokemonCenter_1F_EventScript_Tera_Ground::
     release
     end
 
+OldaleTown_PokemonCenter_1F_EventScript_HyperTrain::
+    setvar VAR_0x8004, 1
+    special ChoosePartyMon
+    waitstate
+	hypertrain STAT_HP, 0
+	hypertrain STAT_ATK, 0
+	hypertrain STAT_DEF, 0
+	hypertrain STAT_SPEED, 0
+	hypertrain STAT_SPATK, 0
+	hypertrain STAT_SPDEF, 0
+    release
+    end
+
 OldaleTown_PokemonCenter_1F_Text_TrainersCanUsePC:
 	.string "That PC in the corner there is\n"
 	.string "for any POKéMON TRAINER to use.\p"
