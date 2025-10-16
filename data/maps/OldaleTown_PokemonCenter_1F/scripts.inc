@@ -37,30 +37,36 @@ OldaleTown_PokemonCenter_1F_EventScript_WirelessClubAvailable::
 	release
 	end
 
-OldaleTown_PokemonCenter_1F_EventScript_Elder_Tera::
-    lock
-    faceplayer
-    //msgbox "I can change the Hidden Power Type of a Pokemon.", MSGBOX_DEFAULT
-    call ChoosePartyMon
-    dynmultipush TYPE_FIGHTING, TYPE_FIGHTING
-    dynmultipush TYPE_FLYING, TYPE_FLYING
-    dynmultipush TYPE_POISON, TYPE_POISON
-    dynmultipush TYPE_GROUND, TYPE_GROUND
-    dynmultipush TYPE_ROCK, TYPE_ROCK
-    dynmultipush TYPE_BUG, TYPE_BUG
-    dynmultipush TYPE_GHOST, TYPE_GHOST
-    dynmultipush TYPE_STEEL, TYPE_STEEL
-    dynmultipush TYPE_FIRE, TYPE_FIRE
-    dynmultipush TYPE_WATER, TYPE_WATER
-    dynmultipush TYPE_GRASS, TYPE_GRASS
-    dynmultipush TYPE_ELECTRIC, TYPE_ELECTRIC
-    dynmultipush TYPE_PSYCHIC, TYPE_PSYCHIC
-    dynmultipush TYPE_ICE, TYPE_ICE
-    dynmultipush TYPE_DRAGON, TYPE_DRAGON
-    dynmultipush TYPE_DARK, TYPE_DARK
-    dynmultistack 0, 0, TRUE, 6, FALSE, 0, DYN_MULTICHOICE_CB_NONE
-    copyvar VAR_0x8005, VAR_RESULT
-    //special(ChangeTeraType)
+OldaleTown_PokemonCenter_1F_EventScript_Tera_Ghost::
+    setvar VAR_0x8004, 1
+    special ChoosePartyMon
+    waitstate
+    setteratype TYPE_GHOST, 0
+    release
+    end
+
+OldaleTown_PokemonCenter_1F_EventScript_Tera_Grass::
+    setvar VAR_0x8004, 1
+    special ChoosePartyMon
+    waitstate
+    setteratype TYPE_GHOST, 0
+    release
+    end
+
+OldaleTown_PokemonCenter_1F_EventScript_Tera_Ice::
+    setvar VAR_0x8004, 1
+    special ChoosePartyMon
+    waitstate
+    setteratype TYPE_GHOST, 0
+    release
+    end
+
+OldaleTown_PokemonCenter_1F_EventScript_Tera_Ground::
+    setvar VAR_0x8004, 1
+    special ChoosePartyMon
+    waitstate
+    setteratype TYPE_GHOST, 0
+    release
     end
 
 OldaleTown_PokemonCenter_1F_Text_TrainersCanUsePC:
