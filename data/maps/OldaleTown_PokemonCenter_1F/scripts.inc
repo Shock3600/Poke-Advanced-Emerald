@@ -49,7 +49,7 @@ OldaleTown_PokemonCenter_1F_EventScript_Tera_Grass::
     setvar VAR_0x8004, 1
     special ChoosePartyMon
     waitstate
-    setteratype TYPE_GHOST, 0
+    setteratype TYPE_GRASS, 0
     release
     end
 
@@ -57,7 +57,7 @@ OldaleTown_PokemonCenter_1F_EventScript_Tera_Ice::
     setvar VAR_0x8004, 1
     special ChoosePartyMon
     waitstate
-    setteratype TYPE_GHOST, 0
+    setteratype TYPE_ICE, 0
     release
     end
 
@@ -65,7 +65,7 @@ OldaleTown_PokemonCenter_1F_EventScript_Tera_Ground::
     setvar VAR_0x8004, 1
     special ChoosePartyMon
     waitstate
-    setteratype TYPE_GHOST, 0
+    setteratype TYPE_GROUND, 0
     release
     end
 
