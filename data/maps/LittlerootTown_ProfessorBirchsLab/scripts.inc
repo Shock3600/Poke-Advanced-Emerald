@@ -123,11 +123,18 @@ LittlerootTown_ProfessorBirchsLab_EventScript_GiveStarterEvent::
 	additem ITEM_CALM_MINT, 99
 	additem ITEM_CAREFUL_MINT, 99
 	additem ITEM_HP_UP, 999
+	additem ITEM_HEALTH_FEATHER, 999
 	additem ITEM_PROTEIN, 999
+	additem ITEM_MUSCLE_FEATHER, 999
 	additem ITEM_IRON, 999
+	additem ITEM_RESIST_FEATHER, 999
 	additem ITEM_CALCIUM, 999
+	additem ITEM_GENIUS_FEATHER, 999
 	additem ITEM_ZINC, 999
+	additem ITEM_CLEVER_FEATHER, 999
 	additem ITEM_CARBOS, 999
+	additem ITEM_SWIFT_FEATHER, 999
+	additem ITEM_FRESH_START_MOCHI, 99
 	additem ITEM_PP_MAX, 999
 	additem ITEM_TM_FOCUS_PUNCH
 	additem ITEM_TM_DRAGON_CLAW
@@ -182,6 +189,7 @@ LittlerootTown_ProfessorBirchsLab_EventScript_GiveStarterEvent::
 	additem ITEM_SITRUS_BERRY, 99
 	additem ITEM_LUM_BERRY, 99
 	additem ITEM_LIECHI_BERRY, 99
+	additem ITEM_SALAC_BERRY, 99
 	additem ITEM_CHOICE_BAND, 6
 	msgbox LittlerootTown_ProfessorBirchsLab_Text_WhyNotGiveNicknameToMon, MSGBOX_YESNO
 	goto_if_eq VAR_RESULT, YES, LittlerootTown_ProfessorBirchsLab_EventScript_NicknameStarter
