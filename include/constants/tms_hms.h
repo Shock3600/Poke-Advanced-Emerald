@@ -51,26 +51,7 @@
     F(STEEL_WING) \
     F(SKILL_SWAP) \
     F(SNATCH) \
-    F(OVERHEAT) \
-    F(DOUBLE_EDGE) \
-    F(EXPLOSION) \
-    F(SLEEP_TALK) \
-    F(SUBSTITUTE) \
-    F(SOFTBOILED) \
-    F(SEISMIS_TOSS) \
-    F(BODY_SLAM) \
-    F(ROCK_SLIDE) \
-    F(COUNTER) \
-    F(THUNDER_WAVE) \
-    F(SWORDS_DANCE) \
-    F(ICY_WIND) \
-    F(ENDURE) \
-    F(PSYCH_UP) \
-    F(ICE_PUNCH) \
-    F(THUNDER_PUNCH) \
-    F(FIRE_PUNCH) \
-    F(SUBSTITUTE) \
-    F(SELFDESTRUCT))
+    F(OVERHEAT)
 
 #define FOREACH_HM(F) \
     F(CUT) \
