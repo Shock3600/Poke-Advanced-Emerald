@@ -229,7 +229,7 @@ Pic: Aqua Grunt M
 Gender: Male
 Music: Aqua
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_POWERFUL_STATUS / AI_FLAG_PREDICTION
 
 Snorunt @ Sitrus Berry  
 Ability: Inner Focus  
@@ -2892,8 +2892,8 @@ Pic: Rich Boy
 Gender: Male
 Music: Rich
 Double Battle: No
-AI: Basic Trainer
-Party Size: 3
+AI: Smart Trainer
+Party Size: 4
 Pool Rules: POOL_RULESET_BASIC
 Pool Pick Functions: Default
 Pool Prune: None
@@ -5467,7 +5467,7 @@ Pic: Leader Roxanne
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREDICTION
 
 Abra @ Sitrus Berry  
 Ability: Synchronize  
@@ -5842,7 +5842,7 @@ Pic: School Kid M
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREDICTION
 Party Size: 5
 Pool Rules: POOL_RULESET_BASIC
 Pool Pick Functions: Default
@@ -6266,7 +6266,7 @@ Pic: School Kid F
 Gender: Female
 Music: Girl
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREDICTION
 Party Size: 5
 Pool Rules: POOL_RULESET_BASIC
 Pool Pick Functions: Default
@@ -7904,7 +7904,7 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREDICTION
 Party Size: 6
 Pool Rules: POOL_RULESET_BASIC
 Pool Pick Functions: Default
@@ -8221,7 +8221,7 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREDICTION
 Party Size: 6
 Pool Rules: POOL_RULESET_BASIC
 Pool Pick Functions: Default
@@ -8538,7 +8538,7 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREDICTION
 Party Size: 5
 Pool Rules: POOL_RULESET_BASIC
 Pool Pick Functions: Default
@@ -9463,8 +9463,8 @@ Pic: Fisherman
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Basic Trainer
-Party Size: 2
+AI: Smart Trainer
+Party Size: 4
 Pool Rules: POOL_RULESET_BASIC
 Pool Pick Functions: Default
 Pool Prune: None
@@ -12237,8 +12237,8 @@ Pic: Twins
 Gender: Male
 Music: Twins
 Double Battle: No
-AI: Basic Trainer
-Party Size: 3
+AI: Smart Trainer
+Party Size: 4
 Pool Rules: POOL_RULESET_BASIC
 Pool Pick Functions: Default
 Pool Prune: None
@@ -14329,7 +14329,7 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREDICTION
 Party Size: 6
 Pool Rules: POOL_RULESET_BASIC
 Pool Pick Functions: Default
@@ -15440,8 +15440,8 @@ Pic: Lass
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
-Party Size: 3
+AI: Smart Trainer
+Party Size: 4
 Pool Rules: POOL_RULESET_BASIC
 Pool Pick Functions: Default
 Pool Prune: None
@@ -15758,7 +15758,7 @@ Pic: Lass
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREDICTION
 Party Size: 5
 Pool Rules: POOL_RULESET_BASIC
 Pool Pick Functions: Default
@@ -16869,7 +16869,7 @@ Pic: Bug Catcher
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREDICTION
 Party Size: 5
 Pool Rules: POOL_RULESET_BASIC
 Pool Pick Functions: Default
@@ -17721,7 +17721,7 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREDICTION
 Party Size: 5
 Pool Rules: POOL_RULESET_BASIC
 Pool Pick Functions: Default
@@ -19418,7 +19418,7 @@ Pic: Rich Boy
 Gender: Male
 Music: Rich
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREDICTION
 Party Size: 5
 Pool Rules: POOL_RULESET_BASIC
 Pool Pick Functions: Default
@@ -19736,7 +19736,7 @@ Pic: Lady
 Gender: Female
 Music: Female
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREDICTION
 Party Size: 5
 Pool Rules: POOL_RULESET_BASIC
 Pool Pick Functions: Default
@@ -21242,7 +21242,7 @@ Pic: Hiker
 Gender: Male
 Music: Hiker
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREDICTION
 Party Size: 5
 Pool Rules: POOL_RULESET_BASIC
 Pool Pick Functions: Default
@@ -21560,7 +21560,7 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer / AI_FLAG_PREDICTION
 Party Size: 5
 Pool Rules: POOL_RULESET_BASIC
 Pool Pick Functions: Default
