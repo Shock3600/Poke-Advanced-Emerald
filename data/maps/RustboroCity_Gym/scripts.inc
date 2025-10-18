@@ -2,6 +2,11 @@ RustboroCity_Gym_MapScripts::
 	.byte 0
 
 RustboroCity_Gym_EventScript_Roxanne::
+	randomelement 1, 2, 3
+	copyvar VAR_TEMP_0, VAR_RESULT
+	goto_if_eq VAR_TEMP_0, 1, RustboroCity_Gym_EventScript_Roxanne1
+	goto_if_eq VAR_TEMP_0, 2, RustboroCity_Gym_EventScript_Roxanne2
+	goto_if_eq VAR_TEMP_0, 3, RustboroCity_Gym_EventScript_Roxanne3
 	trainerbattle_single TRAINER_ROXANNE_1, RustboroCity_Gym_Text_RoxanneIntro, RustboroCity_Gym_Text_RoxanneDefeat, RustboroCity_Gym_EventScript_RoxanneDefeated, NO_MUSIC
 	specialvar VAR_RESULT, ShouldTryRematchBattle
 	goto_if_eq VAR_RESULT, TRUE, RustboroCity_Gym_EventScript_RoxanneRematch
@@ -10,19 +15,34 @@ RustboroCity_Gym_EventScript_Roxanne::
 	release
 	end
 
+RustboroCity_Gym_EventScript_Roxanne1::
+	trainerbattle_single TRAINER_ROXANNE_1, RustboroCity_Gym_Text_RoxanneIntro, RustboroCity_Gym_Text_RoxanneDefeat, RustboroCity_Gym_EventScript_RoxanneDefeated, NO_MUSIC
+	end
+
+RustboroCity_Gym_EventScript_Roxanne2::
+	trainerbattle_single TRAINER_ROXANNE_1, RustboroCity_Gym_Text_RoxanneIntro, RustboroCity_Gym_Text_RoxanneDefeat, RustboroCity_Gym_EventScript_RoxanneDefeated, NO_MUSIC
+	end
+
+RustboroCity_Gym_EventScript_Roxanne3::
+	trainerbattle_single TRAINER_ROXANNE_1, RustboroCity_Gym_Text_RoxanneIntro, RustboroCity_Gym_Text_RoxanneDefeat, RustboroCity_Gym_EventScript_RoxanneDefeated, NO_MUSIC
+	end
+
 RustboroCity_Gym_EventScript_RoxanneDefeated::
-	message RustboroCity_Gym_Text_ReceivedStoneBadge
-	waitmessage
-	call Common_EventScript_PlayGymBadgeFanfare
-	msgbox RustboroCity_Gym_Text_StoneBadgeInfoTakeThis, MSGBOX_DEFAULT
-	setflag FLAG_DEFEATED_RUSTBORO_GYM
-	setflag FLAG_BADGE01_GET
-	setvar VAR_RUSTBORO_CITY_STATE, 1
-	addvar VAR_PETALBURG_GYM_STATE, 1
-	setvar VAR_0x8008, 1
-	call Common_EventScript_SetGymTrainers
-	call_if_eq VAR_PETALBURG_GYM_STATE, 6, Common_EventScript_ReadyPetalburgGymForBattle
-	goto RustboroCity_Gym_EventScript_GiveRockTomb
+	clearflag TRAINER_ROXANNE_1
+	clearflag TRAINER_ROXANNE_2
+	clearflag TRAINER_ROXANNE_3
+	//message RustboroCity_Gym_Text_ReceivedStoneBadge
+	//waitmessage
+	//call Common_EventScript_PlayGymBadgeFanfare
+	//msgbox RustboroCity_Gym_Text_StoneBadgeInfoTakeThis, MSGBOX_DEFAULT
+	//setflag FLAG_DEFEATED_RUSTBORO_GYM
+	//setflag FLAG_BADGE01_GET
+	//setvar VAR_RUSTBORO_CITY_STATE, 1
+	//addvar VAR_PETALBURG_GYM_STATE, 1
+	//setvar VAR_0x8008, 1
+	//call Common_EventScript_SetGymTrainers
+	//call_if_eq VAR_PETALBURG_GYM_STATE, 6, Common_EventScript_ReadyPetalburgGymForBattle
+	//goto RustboroCity_Gym_EventScript_GiveRockTomb
 	end
 
 RustboroCity_Gym_EventScript_GiveRockTomb::
@@ -176,25 +196,18 @@ RustboroCity_Gym_Text_MarcPostBattle:
 	.string "pick the ROCK type at her young age.$"
 
 RustboroCity_Gym_Text_RoxanneIntro:
-	.string "Hello, I am ROXANNE, the RUSTBORO\n"
+	.string "Hello, I am EVAKIYAMA, the RUSTBORO\n"
 	.string "POKéMON GYM LEADER.\p"
 	.string "I became a GYM LEADER so that I might\n"
 	.string "apply what I learned at the POKéMON\l"
-	.string "TRAINER'S SCHOOL in battle.\p"
+	.string "TRAINER'S DISCORD in battle.\p"
 	.string "Would you kindly demonstrate how you\n"
 	.string "battle, and with which POKéMON?$"
 
 RustboroCity_Gym_Text_RoxanneDefeat:
-	.string "So…\n"
-	.string "I lost…\p"
-	.string "It seems that I still have much more\n"
-	.string "to learn…\p"
-	.string "I understand.\p"
-	.string "The POKéMON LEAGUE's rules state\n"
-	.string "that TRAINERS are to be given this\l"
-	.string "if they defeat a GYM LEADER.\p"
-	.string "Please accept the official POKéMON\n"
-	.string "LEAGUE STONE BADGE.$"
+	.string "You have beat the demo,\p"
+	.string "but you can rechallenge me-\n"
+	.string "I might use different teams!$"
 
 RustboroCity_Gym_Text_ReceivedStoneBadge:
 	.string "{PLAYER} received the STONE BADGE\n"
