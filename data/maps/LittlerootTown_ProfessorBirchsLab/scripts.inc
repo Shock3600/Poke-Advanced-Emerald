@@ -186,6 +186,7 @@ LittlerootTown_ProfessorBirchsLab_EventScript_GiveStarterEvent::
 	additem ITEM_TM_SKILL_SWAP
 	additem ITEM_TM_SNATCH
 	additem ITEM_TM_OVERHEAT
+	additem ITEM_HM_SURF
 	additem ITEM_SITRUS_BERRY, 99
 	additem ITEM_LUM_BERRY, 99
 	additem ITEM_LIECHI_BERRY, 99
