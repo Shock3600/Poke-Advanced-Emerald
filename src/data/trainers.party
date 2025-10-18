@@ -22146,41 +22146,71 @@ Class: Leader
 Pic: Leader Roxanne
 Gender: Female
 Music: Female
-Items: Full Restore / Full Restore / Full Restore
-Double Battle: Yes
-AI: Basic Trainer
+Double Battle: No
+AI: Smart Trainer / AI_FLAG_PREDICTION
 
-Golem
-Level: 32
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Protect
-- Rollout
-- Magnitude
-- Explosion
+Meowth  
+Ability: Pickup  
+Level: 5  
+EVs: 116 HP / 236 Def / 36 SpD / 116 Spe  
+Jolly Nature  
+- Fake Out  
+- Double-Edge  
+- Thief  
+- Taunt  
 
-Kabuto @ Sitrus Berry
-Level: 35
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Swords Dance
-- Ice Beam
-- Surf
-- Rock Slide
+Diglett @ Sitrus Berry  
+Ability: Arena Trap  
+Level: 5  
+EVs: 116 HP / 156 SpD / 236 Spe  
+Jolly Nature  
+- Earthquake  
+- Rock Slide  
+- Screech  
+- Sunny Day  
 
-Onix
-Level: 35
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Iron Tail
-- Explosion
-- Roar
-- Rock Slide
+Houndour @ Sitrus Berry  
+Ability: Flash Fire  
+Level: 5  
+EVs: 36 Def / 200 SpA / 116 SpD / 156 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Crunch  
+- Pursuit  
+- Fire Blast  
+- Sunny Day  
 
-Nosepass @ Sitrus Berry
-Level: 37
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Double Team
-- Explosion
-- Protect
-- Rock Slide
+Oddish @ Sitrus Berry  
+Ability: Chlorophyll  
+Tera Type: Ice
+Level: 5  
+EVs: 76 HP / 80 Def / 236 SpA / 116 Spe  
+Modest Nature  
+- Sunny Day  
+- Solar Beam  
+- Hidden Power
+- Bullet Seed  
+
+Lileep @ Sitrus Berry  
+Ability: Suction Cups  
+Level: 5  
+EVs: 68 HP / 188 Atk / 140 Def / 32 SpA / 64 SpD / 12 Spe  
+Brave Nature  
+- Rock Slide  
+- Giga Drain  
+- Toxic  
+- Recover  
+
+Wailmer @ Sitrus Berry  
+Ability: Water Veil  
+Tera Type: Grass
+Level: 5  
+EVs: 36 HP / 120 SpA / 236 SpD / 116 Spe  
+Calm Nature  
+- Surf  
+- Hidden Power
+- Icy Wind  
+- Self-Destruct  
 
 === TRAINER_ROXANNE_3 ===
 Name: ROXANNE
@@ -22192,45 +22222,71 @@ Items: Full Restore / Full Restore / Full Restore
 Double Battle: Yes
 AI: Basic Trainer
 
-Omanyte
-Level: 37
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Protect
-- Ice Beam
-- Rock Slide
-- Surf
+Wailmer @ Sitrus Berry  
+Ability: Water Veil  
+Tera Type: Grass
+Level: 5  
+EVs: 36 HP / 40 Atk / 156 Def / 236 SpD / 36 Spe  
+Sassy Nature  
+- Surf  
+- Earthquake  
+- Hidden Power
+- Self-Destruct  
 
-Golem
-Level: 37
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Protect
-- Rollout
-- Magnitude
-- Explosion
+Exeggcute @ Sitrus Berry  
+Ability: Chlorophyll  
+Level: 5  
+EVs: 116 HP / 196 SpA / 156 SpD / 36 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Sunny Day  
+- Solar Beam  
+- Psychic  
+- Stun Spore  
 
-Kabutops @ Sitrus Berry
-Level: 40
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Swords Dance
-- Ice Beam
-- Surf
-- Rock Slide
+Cubone @ Thick Club  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5  
+EVs: 36 HP / 196 Atk / 40 SpD / 236 Spe  
+Jolly Nature  
+- Bonemerang  
+- Rock Tomb  
+- Hidden Power
+- Substitute  
 
-Onix
-Level: 40
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Iron Tail
-- Explosion
-- Roar
-- Rock Slide
+Gastly @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 116 HP / 36 Def / 156 SpD / 196 Spe  
+Timid Nature  
+- Thunderbolt  
+- Will-O-Wisp  
+- Thief  
+- Explosion  
 
-Nosepass @ Sitrus Berry
-Level: 42
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Double Team
-- Explosion
-- Protect
-- Rock Slide
+Elekid @ Sitrus Berry  
+Ability: Static  
+Tera Type: Bug
+Level: 5  
+EVs: 76 HP / 176 Atk / 236 Spe  
+Hasty Nature  
+- Thunderbolt  
+- Ice Punch  
+- Hidden Power
+- Substitute  
+
+Snubbull @ Sitrus Berry  
+Ability: Intimidate  
+Tera Type: Steel
+Level: 5  
+EVs: 196 HP / 36 Atk / 36 Def / 200 SpD / 36 Spe  
+Careful Nature  
+- Bulk Up  
+- Double-Edge  
+- Hidden Power
+- Thief  
+
 
 === TRAINER_ROXANNE_4 ===
 Name: ROXANNE
