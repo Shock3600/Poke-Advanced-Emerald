@@ -28,6 +28,65 @@ RustboroCity_PokemonCenter_1F_EventScript_Girl::
 	msgbox RustboroCity_PokemonCenter_1F_Text_HMCutNextDoor, MSGBOX_NPC
 	end
 
+RustboroCity_PokemonCenter_1F_EventScript_Tera_Ghost::
+    waitstate
+    setteratype TYPE_GHOST, 0
+	msgbox RustboroCity_PokemonCenter_1F_Text_Tera_Ghost, MSGBOX_NPC
+    release
+    end
+
+RustboroCity_PokemonCenter_1F_EventScript_Tera_Grass::
+    waitstate
+    setteratype TYPE_GRASS, 0
+	msgbox RustboroCity_PokemonCenter_1F_Text_Tera_Grass, MSGBOX_NPC
+    release
+    end
+
+RustboroCity_PokemonCenter_1F_EventScript_Tera_Ice::
+    waitstate
+    setteratype TYPE_ICE, 0
+	msgbox RustboroCity_PokemonCenter_1F_Text_Tera_Ice, MSGBOX_NPC
+    release
+    end
+
+RustboroCity_PokemonCenter_1F_EventScript_Tera_Ground::
+    waitstate
+    setteratype TYPE_GROUND, 0
+	msgbox RustboroCity_PokemonCenter_1F_Text_Tera_Ground, MSGBOX_NPC
+    release
+    end
+
+RustboroCity_PokemonCenter_1F_EventScript_HyperTrain::
+	hypertrain STAT_HP, 0
+	hypertrain STAT_ATK, 0
+	hypertrain STAT_DEF, 0
+	hypertrain STAT_SPEED, 0
+	hypertrain STAT_SPATK, 0
+	hypertrain STAT_SPDEF, 0
+	msgbox RustboroCity_PokemonCenter_1F_Text_HyperTrain, MSGBOX_NPC
+    release
+    end
+
+RustboroCity_PokemonCenter_1F_Text_Tera_Ghost:
+	.string "Your first Pokemon's\n"
+	.string "HP type is now Ghost.$"
+
+RustboroCity_PokemonCenter_1F_Text_Tera_Grass:
+	.string "Your first Pokemon's\n"
+	.string "HP type is now Ghost.$"
+
+RustboroCity_PokemonCenter_1F_Text_Tera_Ice:
+	.string "Your first Pokemon's\n"
+	.string "HP type is now Ghost.$"
+
+RustboroCity_PokemonCenter_1F_Text_Tera_Ground:
+	.string "Your first Pokemon's\n"
+	.string "HP type is now Ghost.$"
+
+RustboroCity_PokemonCenter_1F_Text_HyperTrain:
+	.string "Your first Pokemon's\n"
+	.string "IV's are now maxed out.$"
+
 RustboroCity_PokemonCenter_1F_Text_PokemonHavePersonalities:
 	.string "My POKéMON has a NAIVE nature, and my\n"
 	.string "friend's has a JOLLY nature.\p"
