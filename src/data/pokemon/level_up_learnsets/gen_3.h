@@ -773,6 +773,7 @@ static const struct LevelUpMove sCrobatLevelUpLearnset[] = {
 
 #if P_FAMILY_ODDISH
 static const struct LevelUpMove sOddishLevelUpLearnset[] = {
+    LEVEL_UP_MOVE( 1, MOVE_SUBSTITUTE),
     LEVEL_UP_MOVE( 1, MOVE_ATTRACT),
     LEVEL_UP_MOVE( 1, MOVE_BULLET_SEED),
     LEVEL_UP_MOVE( 1, MOVE_CUT),
@@ -907,6 +908,7 @@ static const struct LevelUpMove sVenomothLevelUpLearnset[] = {
 
 #if P_FAMILY_DIGLETT
 static const struct LevelUpMove sDiglettLevelUpLearnset[] = {
+    LEVEL_UP_MOVE( 1, MOVE_SUBSTITUTE),
     LEVEL_UP_MOVE( 1, MOVE_AERIAL_ACE),
     LEVEL_UP_MOVE( 1, MOVE_ATTRACT),
     LEVEL_UP_MOVE( 1, MOVE_BODY_SLAM),
@@ -1315,6 +1317,7 @@ static const struct LevelUpMove sPolitoedLevelUpLearnset[] = {
 
 #if P_FAMILY_ABRA
 static const struct LevelUpMove sAbraLevelUpLearnset[] = {
+    LEVEL_UP_MOVE( 1, MOVE_SUBSTITUTE),
     LEVEL_UP_MOVE( 1, MOVE_ATTRACT),
     LEVEL_UP_MOVE( 1, MOVE_BODY_SLAM),
     LEVEL_UP_MOVE( 1, MOVE_CALM_MIND),
@@ -1637,6 +1640,7 @@ static const struct LevelUpMove sGolemAlolaLevelUpLearnset[] = {
 
 #if P_FAMILY_PONYTA
 static const struct LevelUpMove sPonytaLevelUpLearnset[] = {
+    LEVEL_UP_MOVE( 1, MOVE_SUBSTITUTE),
     LEVEL_UP_MOVE( 1, MOVE_ATTRACT),
     LEVEL_UP_MOVE( 1, MOVE_BODY_SLAM),
     LEVEL_UP_MOVE( 1, MOVE_DOUBLE_EDGE),
@@ -1855,6 +1859,7 @@ static const struct LevelUpMove sSlowkingGalarLevelUpLearnset[] = {
 
 #if P_FAMILY_MAGNEMITE
 static const struct LevelUpMove sMagnemiteLevelUpLearnset[] = {
+    LEVEL_UP_MOVE( 1, MOVE_SUBSTITUTE),
     LEVEL_UP_MOVE( 1, MOVE_DOUBLE_EDGE),
     LEVEL_UP_MOVE( 1, MOVE_DOUBLE_TEAM),
     LEVEL_UP_MOVE( 1, MOVE_ENDURE),
@@ -1998,6 +2003,7 @@ static const struct LevelUpMove sSirfetchdLevelUpLearnset[] = {
 
 #if P_FAMILY_DODUO
 static const struct LevelUpMove sDoduoLevelUpLearnset[] = {
+    LEVEL_UP_MOVE( 1, MOVE_SUBSTITUTE),
     LEVEL_UP_MOVE( 1, MOVE_AERIAL_ACE),
     LEVEL_UP_MOVE( 1, MOVE_ATTRACT),
     LEVEL_UP_MOVE( 1, MOVE_BODY_SLAM),
@@ -2182,6 +2188,7 @@ static const struct LevelUpMove sCloysterLevelUpLearnset[] = {
 
 #if P_FAMILY_GASTLY
 static const struct LevelUpMove sGastlyLevelUpLearnset[] = {
+    LEVEL_UP_MOVE( 1, MOVE_SUBSTITUTE),
     LEVEL_UP_MOVE( 1, MOVE_ATTRACT),
     LEVEL_UP_MOVE( 1, MOVE_DOUBLE_TEAM),
     LEVEL_UP_MOVE( 1, MOVE_DREAM_EATER),
@@ -2353,6 +2360,7 @@ static const struct LevelUpMove sKinglerLevelUpLearnset[] = {
 
 #if P_FAMILY_VOLTORB
 static const struct LevelUpMove sVoltorbLevelUpLearnset[] = {
+    LEVEL_UP_MOVE( 1, MOVE_SUBSTITUTE),
     LEVEL_UP_MOVE( 1, MOVE_DOUBLE_EDGE),
     LEVEL_UP_MOVE( 1, MOVE_DOUBLE_TEAM),
     LEVEL_UP_MOVE( 1, MOVE_ENDURE),
@@ -2438,6 +2446,7 @@ static const struct LevelUpMove sElectrodeHisuiLevelUpLearnset[] = {
 
 #if P_FAMILY_EXEGGCUTE
 static const struct LevelUpMove sExeggcuteLevelUpLearnset[] = {
+    LEVEL_UP_MOVE( 1, MOVE_SUBSTITUTE),
     LEVEL_UP_MOVE( 1, MOVE_ATTRACT),
     LEVEL_UP_MOVE( 1, MOVE_BULLET_SEED),
     LEVEL_UP_MOVE( 1, MOVE_DOUBLE_EDGE),
@@ -2507,6 +2516,7 @@ static const struct LevelUpMove sExeggutorAlolaLevelUpLearnset[] = {
 
 #if P_FAMILY_CUBONE
 static const struct LevelUpMove sCuboneLevelUpLearnset[] = {
+    LEVEL_UP_MOVE( 1, MOVE_SUBSTITUTE),
     LEVEL_UP_MOVE( 1, MOVE_AERIAL_ACE),
     LEVEL_UP_MOVE( 1, MOVE_ATTRACT),
     LEVEL_UP_MOVE( 1, MOVE_BLIZZARD),
@@ -2706,6 +2716,7 @@ static const struct LevelUpMove sLickilickyLevelUpLearnset[] = {
 
 #if P_FAMILY_KOFFING
 static const struct LevelUpMove sKoffingLevelUpLearnset[] = {
+    LEVEL_UP_MOVE( 1, MOVE_SUBSTITUTE),
     LEVEL_UP_MOVE( 1, MOVE_ATTRACT),
     LEVEL_UP_MOVE( 1, MOVE_BODY_SLAM),
     LEVEL_UP_MOVE( 1, MOVE_DOUBLE_TEAM),
@@ -2955,6 +2966,7 @@ static const struct LevelUpMove sKangaskhanLevelUpLearnset[] = {
 
 #if P_FAMILY_HORSEA
 static const struct LevelUpMove sHorseaLevelUpLearnset[] = {
+    LEVEL_UP_MOVE( 1, MOVE_SUBSTITUTE),
     LEVEL_UP_MOVE( 1, MOVE_ATTRACT),
     LEVEL_UP_MOVE( 1, MOVE_BLIZZARD),
     LEVEL_UP_MOVE( 1, MOVE_DIVE),
@@ -3053,6 +3065,7 @@ static const struct LevelUpMove sSeakingLevelUpLearnset[] = {
 
 #if P_FAMILY_STARYU
 static const struct LevelUpMove sStaryuLevelUpLearnset[] = {
+    LEVEL_UP_MOVE( 1, MOVE_SUBSTITUTE),
     LEVEL_UP_MOVE( 1, MOVE_ATTRACT),
     LEVEL_UP_MOVE( 1, MOVE_BLIZZARD),
     LEVEL_UP_MOVE( 1, MOVE_DIVE),
@@ -3308,6 +3321,7 @@ static const struct LevelUpMove sJynxLevelUpLearnset[] = {
 #if P_FAMILY_ELECTABUZZ
 #if P_GEN_2_CROSS_EVOS
 static const struct LevelUpMove sElekidLevelUpLearnset[] = {
+    LEVEL_UP_MOVE( 1, MOVE_SUBSTITUTE),
     LEVEL_UP_MOVE( 1, MOVE_ATTRACT),
     LEVEL_UP_MOVE( 1, MOVE_BODY_SLAM),
     LEVEL_UP_MOVE( 1, MOVE_BRICK_BREAK),
@@ -4369,6 +4383,7 @@ static const struct LevelUpMove sAriadosLevelUpLearnset[] = {
 
 #if P_FAMILY_CHINCHOU
 static const struct LevelUpMove sChinchouLevelUpLearnset[] = {
+    LEVEL_UP_MOVE( 1, MOVE_SUBSTITUTE),
     LEVEL_UP_MOVE( 1, MOVE_ATTRACT),
     LEVEL_UP_MOVE( 1, MOVE_BLIZZARD),
     LEVEL_UP_MOVE( 1, MOVE_DIVE),
@@ -4953,6 +4968,7 @@ static const struct LevelUpMove sFarigirafLevelUpLearnset[] = {
 
 #if P_FAMILY_PINECO
 static const struct LevelUpMove sPinecoLevelUpLearnset[] = {
+    LEVEL_UP_MOVE( 1, MOVE_SUBSTITUTE),
     LEVEL_UP_MOVE( 1, MOVE_ATTRACT),
     LEVEL_UP_MOVE( 1, MOVE_BODY_SLAM),
     LEVEL_UP_MOVE( 1, MOVE_COUNTER),
@@ -5089,6 +5105,7 @@ static const struct LevelUpMove sGliscorLevelUpLearnset[] = {
 
 #if P_FAMILY_SNUBBULL
 static const struct LevelUpMove sSnubbullLevelUpLearnset[] = {
+    LEVEL_UP_MOVE( 1, MOVE_SUBSTITUTE),
     LEVEL_UP_MOVE( 1, MOVE_ATTRACT),
     LEVEL_UP_MOVE( 1, MOVE_BODY_SLAM),
     LEVEL_UP_MOVE( 1, MOVE_BRICK_BREAK),
@@ -5593,6 +5610,7 @@ static const struct LevelUpMove sSkarmoryLevelUpLearnset[] = {
 
 #if P_FAMILY_HOUNDOUR
 static const struct LevelUpMove sHoundourLevelUpLearnset[] = {
+    LEVEL_UP_MOVE( 1, MOVE_SUBSTITUTE),
     LEVEL_UP_MOVE( 1, MOVE_ATTRACT),
     LEVEL_UP_MOVE( 1, MOVE_BODY_SLAM),
     LEVEL_UP_MOVE( 1, MOVE_COUNTER),
@@ -7110,6 +7128,7 @@ static const struct LevelUpMove sSharpedoLevelUpLearnset[] = {
 
 #if P_FAMILY_WAILMER
 static const struct LevelUpMove sWailmerLevelUpLearnset[] = {
+    LEVEL_UP_MOVE( 1, MOVE_SUBSTITUTE),
     LEVEL_UP_MOVE( 1, MOVE_ATTRACT),
     LEVEL_UP_MOVE( 1, MOVE_BLIZZARD),
     LEVEL_UP_MOVE( 1, MOVE_BODY_SLAM),
@@ -7227,6 +7246,7 @@ static const struct LevelUpMove sTorkoalLevelUpLearnset[] = {
 
 #if P_FAMILY_SPOINK
 static const struct LevelUpMove sSpoinkLevelUpLearnset[] = {
+    LEVEL_UP_MOVE( 1, MOVE_SUBSTITUTE),
     LEVEL_UP_MOVE( 1, MOVE_ATTRACT),
     LEVEL_UP_MOVE( 1, MOVE_BODY_SLAM),
     LEVEL_UP_MOVE( 1, MOVE_CALM_MIND),
@@ -7311,6 +7331,7 @@ static const struct LevelUpMove sSpindaLevelUpLearnset[] = {
 
 #if P_FAMILY_TRAPINCH
 static const struct LevelUpMove sTrapinchLevelUpLearnset[] = {
+    LEVEL_UP_MOVE( 1, MOVE_SUBSTITUTE),
     LEVEL_UP_MOVE( 1, MOVE_BITE),
     LEVEL_UP_MOVE( 1, MOVE_SAND_ATTACK),
     LEVEL_UP_MOVE( 1, MOVE_FEINT_ATTACK),
@@ -7358,6 +7379,7 @@ static const struct LevelUpMove sFlygonLevelUpLearnset[] = {
 
 #if P_FAMILY_CACNEA
 static const struct LevelUpMove sCacneaLevelUpLearnset[] = {
+    LEVEL_UP_MOVE( 1, MOVE_SUBSTITUTE),
     LEVEL_UP_MOVE( 1, MOVE_ATTRACT),
     LEVEL_UP_MOVE( 1, MOVE_BODY_SLAM),
     LEVEL_UP_MOVE( 1, MOVE_BRICK_BREAK),
@@ -7637,6 +7659,7 @@ static const struct LevelUpMove sClaydolLevelUpLearnset[] = {
 
 #if P_FAMILY_LILEEP
 static const struct LevelUpMove sLileepLevelUpLearnset[] = {
+    LEVEL_UP_MOVE( 1, MOVE_SUBSTITUTE),
     LEVEL_UP_MOVE( 1, MOVE_ATTRACT),
     LEVEL_UP_MOVE( 1, MOVE_BODY_SLAM),
     LEVEL_UP_MOVE( 1, MOVE_BULLET_SEED),
@@ -7694,6 +7717,7 @@ static const struct LevelUpMove sCradilyLevelUpLearnset[] = {
 
 #if P_FAMILY_ANORITH
 static const struct LevelUpMove sAnorithLevelUpLearnset[] = {
+    LEVEL_UP_MOVE( 1, MOVE_SUBSTITUTE),
     LEVEL_UP_MOVE( 1, MOVE_AERIAL_ACE),
     LEVEL_UP_MOVE( 1, MOVE_ATTRACT),
     LEVEL_UP_MOVE( 1, MOVE_BODY_SLAM),
@@ -7842,6 +7866,7 @@ static const struct LevelUpMove sBanetteLevelUpLearnset[] = {
 
 #if P_FAMILY_DUSKULL
 static const struct LevelUpMove sDuskullLevelUpLearnset[] = {
+    LEVEL_UP_MOVE( 1, MOVE_SUBSTITUTE),
     LEVEL_UP_MOVE( 1, MOVE_ATTRACT),
     LEVEL_UP_MOVE( 1, MOVE_BLIZZARD),
     LEVEL_UP_MOVE( 1, MOVE_BODY_SLAM),
@@ -8172,6 +8197,7 @@ static const struct LevelUpMove sLuvdiscLevelUpLearnset[] = {
 
 #if P_FAMILY_BAGON
 static const struct LevelUpMove sBagonLevelUpLearnset[] = {
+    LEVEL_UP_MOVE( 1, MOVE_SUBSTITUTE),
     LEVEL_UP_MOVE( 1, MOVE_AERIAL_ACE),
     LEVEL_UP_MOVE( 1, MOVE_ATTRACT),
     LEVEL_UP_MOVE( 1, MOVE_BODY_SLAM),
