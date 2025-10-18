@@ -20,7 +20,7 @@ RustboroCity_Gym_EventScript_Roxanne1::
 	end
 
 RustboroCity_Gym_EventScript_Roxanne2::
-	trainerbattle_single TRAINER_ROXANNE_1, RustboroCity_Gym_Text_RoxanneIntro, RustboroCity_Gym_Text_RoxanneDefeat, RustboroCity_Gym_EventScript_RoxanneDefeated, NO_MUSIC
+	trainerbattle_single TRAINER_ROXANNE_2, RustboroCity_Gym_Text_RoxanneIntro, RustboroCity_Gym_Text_RoxanneDefeat, RustboroCity_Gym_EventScript_RoxanneDefeated, NO_MUSIC
 	end
 
 RustboroCity_Gym_EventScript_Roxanne3::
