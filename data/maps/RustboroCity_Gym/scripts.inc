@@ -31,9 +31,9 @@ RustboroCity_Gym_EventScript_Roxanne3::
 	end
 
 RustboroCity_Gym_EventScript_RoxanneDefeated::
-	clearflag TRAINER_ROXANNE_1
-	clearflag TRAINER_ROXANNE_2
-	clearflag TRAINER_ROXANNE_3
+	cleartrainerflag TRAINER_ROXANNE_1
+	cleartrainerflag TRAINER_ROXANNE_2
+	cleartrainerflag TRAINER_ROXANNE_3
 	//message RustboroCity_Gym_Text_ReceivedStoneBadge
 	//waitmessage
 	//call Common_EventScript_PlayGymBadgeFanfare
