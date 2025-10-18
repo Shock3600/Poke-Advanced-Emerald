@@ -2,6 +2,9 @@ RustboroCity_Gym_MapScripts::
 	.byte 0
 
 RustboroCity_Gym_EventScript_Roxanne::
+	clearflag TRAINER_ROXANNE_1
+	clearflag TRAINER_ROXANNE_2
+	clearflag TRAINER_ROXANNE_3
 	randomelement 1, 2, 3
 	copyvar VAR_TEMP_0, VAR_RESULT
 	goto_if_eq VAR_TEMP_0, 1, RustboroCity_Gym_EventScript_Roxanne1
