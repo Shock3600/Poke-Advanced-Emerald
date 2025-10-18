@@ -248,7 +248,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 HP / 120 SpA / 236 SpD / 116 Spe  
 Calm Nature  
-IVs: 2 Atk / 30 SpA  
 - Water Spout  
 - Hidden Power
 - Icy Wind  
@@ -260,7 +259,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 116 HP / 116 Def / 200 SpA / 76 SpD  
 Modest Nature  
-IVs: 2 Atk / 30 SpA  
 - Rain Dance  
 - Hydro Pump  
 - Ice Beam  
@@ -2378,7 +2376,6 @@ Ability: Static
 Level: 5  
 EVs: 240 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Thunderbolt  
 - Ice Punch  
 - Thief  
@@ -2421,7 +2418,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 HP / 76 Def / 120 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Hydro Pump  
 - Thunderbolt  
 - Ice Beam  
@@ -2432,7 +2428,6 @@ Ability: Sand Veil
 Level: 5  
 EVs: 196 HP / 116 Def / 196 SpD  
 Bold Nature  
-IVs: 2 Atk / 30 SpA  
 - Spikes  
 - Giga Drain  
 - Encore  
@@ -2455,7 +2450,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 Def / 200 SpA / 116 SpD / 156 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 SpA  
 - Fire Blast  
 - Crunch  
 - Hidden Power
@@ -2467,7 +2461,6 @@ Tera Type: Ice
 Level: 5  
 EVs: 76 HP / 80 Def / 236 SpA / 116 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 Def  
 - Sunny Day  
 - Solar Beam  
 - Hidden Power
@@ -2475,24 +2468,99 @@ IVs: 2 Atk / 30 Def
 
 Ponyta @ Sitrus Berry  
 Ability: Flash Fire  
-Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
-Timid Nature  
-- Sunny Day  
-- Fire Blast  
-- Solar Beam  
-- Substitute  
-
-Ponyta @ Sitrus Berry  
-Ability: Flash Fire  
+Tera Type: Grass
 Level: 5  
 EVs: 236 SpA / 76 SpD / 196 Spe  
 Hasty Nature  
 - Substitute  
 - Overheat  
-- Body Slam  
+- Hidden Power
 - Toxic  
 
+Bagon @ Sitrus Berry  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 76 HP / 76 Atk / 40 Def / 200 SpD / 116 Spe  
+Careful Nature  
+- Double-Edge  
+- Brick Break  
+- Hidden Power
+- Dragon Dance  
+
+Cubone @ Thick Club  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 36 HP / 196 Atk / 40 SpD / 236 Spe  
+Adamant Nature  
+- Bonemerang  
+- Double-Edge  
+- Hidden Power
+- Protect  
+
+Horsea @ Sitrus Berry  
+Ability: Swift Swim  
+Tera Type: Grass
+Level: 5  
+EVs: 36 HP / 36 Def / 200 SpA / 196 Spe  
+Modest Nature  
+- Hydro Pump  
+- Surf  
+- Hidden Power
+- Rain Dance  
+
+Koffing @ Sitrus Berry  
+Ability: Levitate  
+Tera Type: Water
+Level: 5  
+EVs: 116 HP / 76 Atk / 236 Def / 80 Spe  
+Impish Nature  
+- Sludge Bomb  
+- Hidden Power  
+- Thief  
+- Explosion  
+
+Magnemite @ Sitrus Berry  
+Ability: Sturdy  
+Tera Type: Grass
+Level: 5  
+EVs: 36 Def / 240 SpA / 76 SpD / 156 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hidden Power
+- Toxic  
+- Substitute  
+
+Pineco @ Sitrus Berry  
+Ability: Sturdy  
+Level: 5  
+EVs: 196 HP / 40 Def / 240 SpD  
+Careful Nature  
+- Spikes  
+- Rapid Spin  
+- Light Screen  
+- Explosion  
+
+Duskull @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 196 HP / 36 Atk / 196 Def / 40 SpA / 40 SpD  
+Relaxed Nature  
+- Shadow Ball  
+- Icy Wind  
+- Thief  
+- Memento  
+
+Spoink  
+Ability: Thick Fat  
+Level: 5  
+EVs: 36 HP / 156 Def / 116 SpD / 196 Spe  
+Bold Nature  
+- Thief  
+- Psychic  
+- Icy Wind  
+- Taunt  
 
 
 === TRAINER_DAPHNE ===
@@ -3086,7 +3154,6 @@ Ability: Static
 Level: 5  
 EVs: 240 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Thunderbolt  
 - Ice Punch  
 - Thief  
@@ -3129,7 +3196,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 HP / 76 Def / 120 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Hydro Pump  
 - Thunderbolt  
 - Ice Beam  
@@ -3140,7 +3206,6 @@ Ability: Sand Veil
 Level: 5  
 EVs: 196 HP / 116 Def / 196 SpD  
 Bold Nature  
-IVs: 2 Atk / 30 SpA  
 - Spikes  
 - Giga Drain  
 - Encore  
@@ -3163,7 +3228,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 Def / 200 SpA / 116 SpD / 156 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 SpA  
 - Fire Blast  
 - Crunch  
 - Hidden Power
@@ -3175,7 +3239,6 @@ Tera Type: Ice
 Level: 5  
 EVs: 76 HP / 80 Def / 236 SpA / 116 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 Def  
 - Sunny Day  
 - Solar Beam  
 - Hidden Power
@@ -3183,23 +3246,99 @@ IVs: 2 Atk / 30 Def
 
 Ponyta @ Sitrus Berry  
 Ability: Flash Fire  
-Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
-Timid Nature  
-- Sunny Day  
-- Fire Blast  
-- Solar Beam  
-- Substitute  
-
-Ponyta @ Sitrus Berry  
-Ability: Flash Fire  
+Tera Type: Grass
 Level: 5  
 EVs: 236 SpA / 76 SpD / 196 Spe  
 Hasty Nature  
 - Substitute  
 - Overheat  
-- Body Slam  
+- Hidden Power
 - Toxic  
+
+Bagon @ Sitrus Berry  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 76 HP / 76 Atk / 40 Def / 200 SpD / 116 Spe  
+Careful Nature  
+- Double-Edge  
+- Brick Break  
+- Hidden Power
+- Dragon Dance  
+
+Cubone @ Thick Club  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 36 HP / 196 Atk / 40 SpD / 236 Spe  
+Adamant Nature  
+- Bonemerang  
+- Double-Edge  
+- Hidden Power
+- Protect  
+
+Horsea @ Sitrus Berry  
+Ability: Swift Swim  
+Tera Type: Grass
+Level: 5  
+EVs: 36 HP / 36 Def / 200 SpA / 196 Spe  
+Modest Nature  
+- Hydro Pump  
+- Surf  
+- Hidden Power
+- Rain Dance  
+
+Koffing @ Sitrus Berry  
+Ability: Levitate  
+Tera Type: Water
+Level: 5  
+EVs: 116 HP / 76 Atk / 236 Def / 80 Spe  
+Impish Nature  
+- Sludge Bomb  
+- Hidden Power  
+- Thief  
+- Explosion  
+
+Magnemite @ Sitrus Berry  
+Ability: Sturdy  
+Tera Type: Grass
+Level: 5  
+EVs: 36 Def / 240 SpA / 76 SpD / 156 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hidden Power
+- Toxic  
+- Substitute  
+
+Pineco @ Sitrus Berry  
+Ability: Sturdy  
+Level: 5  
+EVs: 196 HP / 40 Def / 240 SpD  
+Careful Nature  
+- Spikes  
+- Rapid Spin  
+- Light Screen  
+- Explosion  
+
+Duskull @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 196 HP / 36 Atk / 196 Def / 40 SpA / 40 SpD  
+Relaxed Nature  
+- Shadow Ball  
+- Icy Wind  
+- Thief  
+- Memento  
+
+Spoink  
+Ability: Thick Fat  
+Level: 5  
+EVs: 36 HP / 156 Def / 116 SpD / 196 Spe  
+Bold Nature  
+- Thief  
+- Psychic  
+- Icy Wind  
+- Taunt  
 
 
 
@@ -6036,7 +6175,6 @@ Ability: Static
 Level: 5  
 EVs: 240 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Thunderbolt  
 - Ice Punch  
 - Thief  
@@ -6079,7 +6217,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 HP / 76 Def / 120 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Hydro Pump  
 - Thunderbolt  
 - Ice Beam  
@@ -6090,7 +6227,6 @@ Ability: Sand Veil
 Level: 5  
 EVs: 196 HP / 116 Def / 196 SpD  
 Bold Nature  
-IVs: 2 Atk / 30 SpA  
 - Spikes  
 - Giga Drain  
 - Encore  
@@ -6113,7 +6249,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 Def / 200 SpA / 116 SpD / 156 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 SpA  
 - Fire Blast  
 - Crunch  
 - Hidden Power
@@ -6125,7 +6260,6 @@ Tera Type: Ice
 Level: 5  
 EVs: 76 HP / 80 Def / 236 SpA / 116 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 Def  
 - Sunny Day  
 - Solar Beam  
 - Hidden Power
@@ -6133,23 +6267,99 @@ IVs: 2 Atk / 30 Def
 
 Ponyta @ Sitrus Berry  
 Ability: Flash Fire  
-Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
-Timid Nature  
-- Sunny Day  
-- Fire Blast  
-- Solar Beam  
-- Substitute  
-
-Ponyta @ Sitrus Berry  
-Ability: Flash Fire  
+Tera Type: Grass
 Level: 5  
 EVs: 236 SpA / 76 SpD / 196 Spe  
 Hasty Nature  
 - Substitute  
 - Overheat  
-- Body Slam  
+- Hidden Power
 - Toxic  
+
+Bagon @ Sitrus Berry  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 76 HP / 76 Atk / 40 Def / 200 SpD / 116 Spe  
+Careful Nature  
+- Double-Edge  
+- Brick Break  
+- Hidden Power
+- Dragon Dance  
+
+Cubone @ Thick Club  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 36 HP / 196 Atk / 40 SpD / 236 Spe  
+Adamant Nature  
+- Bonemerang  
+- Double-Edge  
+- Hidden Power
+- Protect  
+
+Horsea @ Sitrus Berry  
+Ability: Swift Swim  
+Tera Type: Grass
+Level: 5  
+EVs: 36 HP / 36 Def / 200 SpA / 196 Spe  
+Modest Nature  
+- Hydro Pump  
+- Surf  
+- Hidden Power
+- Rain Dance  
+
+Koffing @ Sitrus Berry  
+Ability: Levitate  
+Tera Type: Water
+Level: 5  
+EVs: 116 HP / 76 Atk / 236 Def / 80 Spe  
+Impish Nature  
+- Sludge Bomb  
+- Hidden Power  
+- Thief  
+- Explosion  
+
+Magnemite @ Sitrus Berry  
+Ability: Sturdy  
+Tera Type: Grass
+Level: 5  
+EVs: 36 Def / 240 SpA / 76 SpD / 156 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hidden Power
+- Toxic  
+- Substitute  
+
+Pineco @ Sitrus Berry  
+Ability: Sturdy  
+Level: 5  
+EVs: 196 HP / 40 Def / 240 SpD  
+Careful Nature  
+- Spikes  
+- Rapid Spin  
+- Light Screen  
+- Explosion  
+
+Duskull @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 196 HP / 36 Atk / 196 Def / 40 SpA / 40 SpD  
+Relaxed Nature  
+- Shadow Ball  
+- Icy Wind  
+- Thief  
+- Memento  
+
+Spoink  
+Ability: Thick Fat  
+Level: 5  
+EVs: 36 HP / 156 Def / 116 SpD / 196 Spe  
+Bold Nature  
+- Thief  
+- Psychic  
+- Icy Wind  
+- Taunt  
 
 
 
@@ -6460,7 +6670,6 @@ Ability: Static
 Level: 5  
 EVs: 240 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Thunderbolt  
 - Ice Punch  
 - Thief  
@@ -6503,7 +6712,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 HP / 76 Def / 120 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Hydro Pump  
 - Thunderbolt  
 - Ice Beam  
@@ -6514,7 +6722,6 @@ Ability: Sand Veil
 Level: 5  
 EVs: 196 HP / 116 Def / 196 SpD  
 Bold Nature  
-IVs: 2 Atk / 30 SpA  
 - Spikes  
 - Giga Drain  
 - Encore  
@@ -6537,7 +6744,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 Def / 200 SpA / 116 SpD / 156 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 SpA  
 - Fire Blast  
 - Crunch  
 - Hidden Power
@@ -6549,7 +6755,6 @@ Tera Type: Ice
 Level: 5  
 EVs: 76 HP / 80 Def / 236 SpA / 116 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 Def  
 - Sunny Day  
 - Solar Beam  
 - Hidden Power
@@ -6557,23 +6762,99 @@ IVs: 2 Atk / 30 Def
 
 Ponyta @ Sitrus Berry  
 Ability: Flash Fire  
-Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
-Timid Nature  
-- Sunny Day  
-- Fire Blast  
-- Solar Beam  
-- Substitute  
-
-Ponyta @ Sitrus Berry  
-Ability: Flash Fire  
+Tera Type: Grass
 Level: 5  
 EVs: 236 SpA / 76 SpD / 196 Spe  
 Hasty Nature  
 - Substitute  
 - Overheat  
-- Body Slam  
+- Hidden Power
 - Toxic  
+
+Bagon @ Sitrus Berry  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 76 HP / 76 Atk / 40 Def / 200 SpD / 116 Spe  
+Careful Nature  
+- Double-Edge  
+- Brick Break  
+- Hidden Power
+- Dragon Dance  
+
+Cubone @ Thick Club  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 36 HP / 196 Atk / 40 SpD / 236 Spe  
+Adamant Nature  
+- Bonemerang  
+- Double-Edge  
+- Hidden Power
+- Protect  
+
+Horsea @ Sitrus Berry  
+Ability: Swift Swim  
+Tera Type: Grass
+Level: 5  
+EVs: 36 HP / 36 Def / 200 SpA / 196 Spe  
+Modest Nature  
+- Hydro Pump  
+- Surf  
+- Hidden Power
+- Rain Dance  
+
+Koffing @ Sitrus Berry  
+Ability: Levitate  
+Tera Type: Water
+Level: 5  
+EVs: 116 HP / 76 Atk / 236 Def / 80 Spe  
+Impish Nature  
+- Sludge Bomb  
+- Hidden Power  
+- Thief  
+- Explosion  
+
+Magnemite @ Sitrus Berry  
+Ability: Sturdy  
+Tera Type: Grass
+Level: 5  
+EVs: 36 Def / 240 SpA / 76 SpD / 156 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hidden Power
+- Toxic  
+- Substitute  
+
+Pineco @ Sitrus Berry  
+Ability: Sturdy  
+Level: 5  
+EVs: 196 HP / 40 Def / 240 SpD  
+Careful Nature  
+- Spikes  
+- Rapid Spin  
+- Light Screen  
+- Explosion  
+
+Duskull @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 196 HP / 36 Atk / 196 Def / 40 SpA / 40 SpD  
+Relaxed Nature  
+- Shadow Ball  
+- Icy Wind  
+- Thief  
+- Memento  
+
+Spoink  
+Ability: Thick Fat  
+Level: 5  
+EVs: 36 HP / 156 Def / 116 SpD / 196 Spe  
+Bold Nature  
+- Thief  
+- Psychic  
+- Icy Wind  
+- Taunt  
 
 
 
@@ -7462,7 +7743,6 @@ Ability: Static
 Level: 5  
 EVs: 240 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Thunderbolt  
 - Ice Punch  
 - Thief  
@@ -7505,7 +7785,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 HP / 76 Def / 120 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Hydro Pump  
 - Thunderbolt  
 - Ice Beam  
@@ -7516,7 +7795,6 @@ Ability: Sand Veil
 Level: 5  
 EVs: 196 HP / 116 Def / 196 SpD  
 Bold Nature  
-IVs: 2 Atk / 30 SpA  
 - Spikes  
 - Giga Drain  
 - Encore  
@@ -7539,7 +7817,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 Def / 200 SpA / 116 SpD / 156 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 SpA  
 - Fire Blast  
 - Crunch  
 - Hidden Power
@@ -7551,7 +7828,6 @@ Tera Type: Ice
 Level: 5  
 EVs: 76 HP / 80 Def / 236 SpA / 116 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 Def  
 - Sunny Day  
 - Solar Beam  
 - Hidden Power
@@ -7559,23 +7835,99 @@ IVs: 2 Atk / 30 Def
 
 Ponyta @ Sitrus Berry  
 Ability: Flash Fire  
-Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
-Timid Nature  
-- Sunny Day  
-- Fire Blast  
-- Solar Beam  
-- Substitute  
-
-Ponyta @ Sitrus Berry  
-Ability: Flash Fire  
+Tera Type: Grass
 Level: 5  
 EVs: 236 SpA / 76 SpD / 196 Spe  
 Hasty Nature  
 - Substitute  
 - Overheat  
-- Body Slam  
+- Hidden Power
 - Toxic  
+
+Bagon @ Sitrus Berry  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 76 HP / 76 Atk / 40 Def / 200 SpD / 116 Spe  
+Careful Nature  
+- Double-Edge  
+- Brick Break  
+- Hidden Power
+- Dragon Dance  
+
+Cubone @ Thick Club  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 36 HP / 196 Atk / 40 SpD / 236 Spe  
+Adamant Nature  
+- Bonemerang  
+- Double-Edge  
+- Hidden Power
+- Protect  
+
+Horsea @ Sitrus Berry  
+Ability: Swift Swim  
+Tera Type: Grass
+Level: 5  
+EVs: 36 HP / 36 Def / 200 SpA / 196 Spe  
+Modest Nature  
+- Hydro Pump  
+- Surf  
+- Hidden Power
+- Rain Dance  
+
+Koffing @ Sitrus Berry  
+Ability: Levitate  
+Tera Type: Water
+Level: 5  
+EVs: 116 HP / 76 Atk / 236 Def / 80 Spe  
+Impish Nature  
+- Sludge Bomb  
+- Hidden Power  
+- Thief  
+- Explosion  
+
+Magnemite @ Sitrus Berry  
+Ability: Sturdy  
+Tera Type: Grass
+Level: 5  
+EVs: 36 Def / 240 SpA / 76 SpD / 156 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hidden Power
+- Toxic  
+- Substitute  
+
+Pineco @ Sitrus Berry  
+Ability: Sturdy  
+Level: 5  
+EVs: 196 HP / 40 Def / 240 SpD  
+Careful Nature  
+- Spikes  
+- Rapid Spin  
+- Light Screen  
+- Explosion  
+
+Duskull @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 196 HP / 36 Atk / 196 Def / 40 SpA / 40 SpD  
+Relaxed Nature  
+- Shadow Ball  
+- Icy Wind  
+- Thief  
+- Memento  
+
+Spoink  
+Ability: Thick Fat  
+Level: 5  
+EVs: 36 HP / 156 Def / 116 SpD / 196 Spe  
+Bold Nature  
+- Thief  
+- Psychic  
+- Icy Wind  
+- Taunt  
 
 
 
@@ -7780,7 +8132,6 @@ Ability: Static
 Level: 5  
 EVs: 240 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Thunderbolt  
 - Ice Punch  
 - Thief  
@@ -7823,7 +8174,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 HP / 76 Def / 120 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Hydro Pump  
 - Thunderbolt  
 - Ice Beam  
@@ -7834,7 +8184,6 @@ Ability: Sand Veil
 Level: 5  
 EVs: 196 HP / 116 Def / 196 SpD  
 Bold Nature  
-IVs: 2 Atk / 30 SpA  
 - Spikes  
 - Giga Drain  
 - Encore  
@@ -7857,7 +8206,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 Def / 200 SpA / 116 SpD / 156 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 SpA  
 - Fire Blast  
 - Crunch  
 - Hidden Power
@@ -7869,7 +8217,6 @@ Tera Type: Ice
 Level: 5  
 EVs: 76 HP / 80 Def / 236 SpA / 116 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 Def  
 - Sunny Day  
 - Solar Beam  
 - Hidden Power
@@ -7877,23 +8224,99 @@ IVs: 2 Atk / 30 Def
 
 Ponyta @ Sitrus Berry  
 Ability: Flash Fire  
-Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
-Timid Nature  
-- Sunny Day  
-- Fire Blast  
-- Solar Beam  
-- Substitute  
-
-Ponyta @ Sitrus Berry  
-Ability: Flash Fire  
+Tera Type: Grass
 Level: 5  
 EVs: 236 SpA / 76 SpD / 196 Spe  
 Hasty Nature  
 - Substitute  
 - Overheat  
-- Body Slam  
+- Hidden Power
 - Toxic  
+
+Bagon @ Sitrus Berry  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 76 HP / 76 Atk / 40 Def / 200 SpD / 116 Spe  
+Careful Nature  
+- Double-Edge  
+- Brick Break  
+- Hidden Power
+- Dragon Dance  
+
+Cubone @ Thick Club  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 36 HP / 196 Atk / 40 SpD / 236 Spe  
+Adamant Nature  
+- Bonemerang  
+- Double-Edge  
+- Hidden Power
+- Protect  
+
+Horsea @ Sitrus Berry  
+Ability: Swift Swim  
+Tera Type: Grass
+Level: 5  
+EVs: 36 HP / 36 Def / 200 SpA / 196 Spe  
+Modest Nature  
+- Hydro Pump  
+- Surf  
+- Hidden Power
+- Rain Dance  
+
+Koffing @ Sitrus Berry  
+Ability: Levitate  
+Tera Type: Water
+Level: 5  
+EVs: 116 HP / 76 Atk / 236 Def / 80 Spe  
+Impish Nature  
+- Sludge Bomb  
+- Hidden Power  
+- Thief  
+- Explosion  
+
+Magnemite @ Sitrus Berry  
+Ability: Sturdy  
+Tera Type: Grass
+Level: 5  
+EVs: 36 Def / 240 SpA / 76 SpD / 156 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hidden Power
+- Toxic  
+- Substitute  
+
+Pineco @ Sitrus Berry  
+Ability: Sturdy  
+Level: 5  
+EVs: 196 HP / 40 Def / 240 SpD  
+Careful Nature  
+- Spikes  
+- Rapid Spin  
+- Light Screen  
+- Explosion  
+
+Duskull @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 196 HP / 36 Atk / 196 Def / 40 SpA / 40 SpD  
+Relaxed Nature  
+- Shadow Ball  
+- Icy Wind  
+- Thief  
+- Memento  
+
+Spoink  
+Ability: Thick Fat  
+Level: 5  
+EVs: 36 HP / 156 Def / 116 SpD / 196 Spe  
+Bold Nature  
+- Thief  
+- Psychic  
+- Icy Wind  
+- Taunt  
 
 
 
@@ -8098,7 +8521,6 @@ Ability: Static
 Level: 5  
 EVs: 240 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Thunderbolt  
 - Ice Punch  
 - Thief  
@@ -8141,7 +8563,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 HP / 76 Def / 120 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Hydro Pump  
 - Thunderbolt  
 - Ice Beam  
@@ -8152,7 +8573,6 @@ Ability: Sand Veil
 Level: 5  
 EVs: 196 HP / 116 Def / 196 SpD  
 Bold Nature  
-IVs: 2 Atk / 30 SpA  
 - Spikes  
 - Giga Drain  
 - Encore  
@@ -8175,7 +8595,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 Def / 200 SpA / 116 SpD / 156 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 SpA  
 - Fire Blast  
 - Crunch  
 - Hidden Power
@@ -8187,7 +8606,6 @@ Tera Type: Ice
 Level: 5  
 EVs: 76 HP / 80 Def / 236 SpA / 116 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 Def  
 - Sunny Day  
 - Solar Beam  
 - Hidden Power
@@ -8195,23 +8613,99 @@ IVs: 2 Atk / 30 Def
 
 Ponyta @ Sitrus Berry  
 Ability: Flash Fire  
-Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
-Timid Nature  
-- Sunny Day  
-- Fire Blast  
-- Solar Beam  
-- Substitute  
-
-Ponyta @ Sitrus Berry  
-Ability: Flash Fire  
+Tera Type: Grass
 Level: 5  
 EVs: 236 SpA / 76 SpD / 196 Spe  
 Hasty Nature  
 - Substitute  
 - Overheat  
-- Body Slam  
+- Hidden Power
 - Toxic  
+
+Bagon @ Sitrus Berry  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 76 HP / 76 Atk / 40 Def / 200 SpD / 116 Spe  
+Careful Nature  
+- Double-Edge  
+- Brick Break  
+- Hidden Power
+- Dragon Dance  
+
+Cubone @ Thick Club  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 36 HP / 196 Atk / 40 SpD / 236 Spe  
+Adamant Nature  
+- Bonemerang  
+- Double-Edge  
+- Hidden Power
+- Protect  
+
+Horsea @ Sitrus Berry  
+Ability: Swift Swim  
+Tera Type: Grass
+Level: 5  
+EVs: 36 HP / 36 Def / 200 SpA / 196 Spe  
+Modest Nature  
+- Hydro Pump  
+- Surf  
+- Hidden Power
+- Rain Dance  
+
+Koffing @ Sitrus Berry  
+Ability: Levitate  
+Tera Type: Water
+Level: 5  
+EVs: 116 HP / 76 Atk / 236 Def / 80 Spe  
+Impish Nature  
+- Sludge Bomb  
+- Hidden Power  
+- Thief  
+- Explosion  
+
+Magnemite @ Sitrus Berry  
+Ability: Sturdy  
+Tera Type: Grass
+Level: 5  
+EVs: 36 Def / 240 SpA / 76 SpD / 156 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hidden Power
+- Toxic  
+- Substitute  
+
+Pineco @ Sitrus Berry  
+Ability: Sturdy  
+Level: 5  
+EVs: 196 HP / 40 Def / 240 SpD  
+Careful Nature  
+- Spikes  
+- Rapid Spin  
+- Light Screen  
+- Explosion  
+
+Duskull @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 196 HP / 36 Atk / 196 Def / 40 SpA / 40 SpD  
+Relaxed Nature  
+- Shadow Ball  
+- Icy Wind  
+- Thief  
+- Memento  
+
+Spoink  
+Ability: Thick Fat  
+Level: 5  
+EVs: 36 HP / 156 Def / 116 SpD / 196 Spe  
+Bold Nature  
+- Thief  
+- Psychic  
+- Icy Wind  
+- Taunt  
 
 
 === TRAINER_TOMMY ===
@@ -8415,7 +8909,6 @@ Ability: Static
 Level: 5  
 EVs: 240 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Thunderbolt  
 - Ice Punch  
 - Thief  
@@ -8458,7 +8951,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 HP / 76 Def / 120 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Hydro Pump  
 - Thunderbolt  
 - Ice Beam  
@@ -8469,7 +8961,6 @@ Ability: Sand Veil
 Level: 5  
 EVs: 196 HP / 116 Def / 196 SpD  
 Bold Nature  
-IVs: 2 Atk / 30 SpA  
 - Spikes  
 - Giga Drain  
 - Encore  
@@ -8492,7 +8983,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 Def / 200 SpA / 116 SpD / 156 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 SpA  
 - Fire Blast  
 - Crunch  
 - Hidden Power
@@ -8504,7 +8994,6 @@ Tera Type: Ice
 Level: 5  
 EVs: 76 HP / 80 Def / 236 SpA / 116 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 Def  
 - Sunny Day  
 - Solar Beam  
 - Hidden Power
@@ -8512,23 +9001,99 @@ IVs: 2 Atk / 30 Def
 
 Ponyta @ Sitrus Berry  
 Ability: Flash Fire  
-Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
-Timid Nature  
-- Sunny Day  
-- Fire Blast  
-- Solar Beam  
-- Substitute  
-
-Ponyta @ Sitrus Berry  
-Ability: Flash Fire  
+Tera Type: Grass
 Level: 5  
 EVs: 236 SpA / 76 SpD / 196 Spe  
 Hasty Nature  
 - Substitute  
 - Overheat  
-- Body Slam  
+- Hidden Power
 - Toxic  
+
+Bagon @ Sitrus Berry  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 76 HP / 76 Atk / 40 Def / 200 SpD / 116 Spe  
+Careful Nature  
+- Double-Edge  
+- Brick Break  
+- Hidden Power
+- Dragon Dance  
+
+Cubone @ Thick Club  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 36 HP / 196 Atk / 40 SpD / 236 Spe  
+Adamant Nature  
+- Bonemerang  
+- Double-Edge  
+- Hidden Power
+- Protect  
+
+Horsea @ Sitrus Berry  
+Ability: Swift Swim  
+Tera Type: Grass
+Level: 5  
+EVs: 36 HP / 36 Def / 200 SpA / 196 Spe  
+Modest Nature  
+- Hydro Pump  
+- Surf  
+- Hidden Power
+- Rain Dance  
+
+Koffing @ Sitrus Berry  
+Ability: Levitate  
+Tera Type: Water
+Level: 5  
+EVs: 116 HP / 76 Atk / 236 Def / 80 Spe  
+Impish Nature  
+- Sludge Bomb  
+- Hidden Power  
+- Thief  
+- Explosion  
+
+Magnemite @ Sitrus Berry  
+Ability: Sturdy  
+Tera Type: Grass
+Level: 5  
+EVs: 36 Def / 240 SpA / 76 SpD / 156 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hidden Power
+- Toxic  
+- Substitute  
+
+Pineco @ Sitrus Berry  
+Ability: Sturdy  
+Level: 5  
+EVs: 196 HP / 40 Def / 240 SpD  
+Careful Nature  
+- Spikes  
+- Rapid Spin  
+- Light Screen  
+- Explosion  
+
+Duskull @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 196 HP / 36 Atk / 196 Def / 40 SpA / 40 SpD  
+Relaxed Nature  
+- Shadow Ball  
+- Icy Wind  
+- Thief  
+- Memento  
+
+Spoink  
+Ability: Thick Fat  
+Level: 5  
+EVs: 36 HP / 156 Def / 116 SpD / 196 Spe  
+Bold Nature  
+- Thief  
+- Psychic  
+- Icy Wind  
+- Taunt  
 
 
 === TRAINER_JOEY ===
@@ -8732,7 +9297,6 @@ Ability: Static
 Level: 5  
 EVs: 240 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Thunderbolt  
 - Ice Punch  
 - Thief  
@@ -8775,7 +9339,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 HP / 76 Def / 120 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Hydro Pump  
 - Thunderbolt  
 - Ice Beam  
@@ -8786,7 +9349,6 @@ Ability: Sand Veil
 Level: 5  
 EVs: 196 HP / 116 Def / 196 SpD  
 Bold Nature  
-IVs: 2 Atk / 30 SpA  
 - Spikes  
 - Giga Drain  
 - Encore  
@@ -8809,7 +9371,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 Def / 200 SpA / 116 SpD / 156 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 SpA  
 - Fire Blast  
 - Crunch  
 - Hidden Power
@@ -8821,7 +9382,6 @@ Tera Type: Ice
 Level: 5  
 EVs: 76 HP / 80 Def / 236 SpA / 116 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 Def  
 - Sunny Day  
 - Solar Beam  
 - Hidden Power
@@ -8829,23 +9389,99 @@ IVs: 2 Atk / 30 Def
 
 Ponyta @ Sitrus Berry  
 Ability: Flash Fire  
-Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
-Timid Nature  
-- Sunny Day  
-- Fire Blast  
-- Solar Beam  
-- Substitute  
-
-Ponyta @ Sitrus Berry  
-Ability: Flash Fire  
+Tera Type: Grass
 Level: 5  
 EVs: 236 SpA / 76 SpD / 196 Spe  
 Hasty Nature  
 - Substitute  
 - Overheat  
-- Body Slam  
+- Hidden Power
 - Toxic  
+
+Bagon @ Sitrus Berry  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 76 HP / 76 Atk / 40 Def / 200 SpD / 116 Spe  
+Careful Nature  
+- Double-Edge  
+- Brick Break  
+- Hidden Power
+- Dragon Dance  
+
+Cubone @ Thick Club  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 36 HP / 196 Atk / 40 SpD / 236 Spe  
+Adamant Nature  
+- Bonemerang  
+- Double-Edge  
+- Hidden Power
+- Protect  
+
+Horsea @ Sitrus Berry  
+Ability: Swift Swim  
+Tera Type: Grass
+Level: 5  
+EVs: 36 HP / 36 Def / 200 SpA / 196 Spe  
+Modest Nature  
+- Hydro Pump  
+- Surf  
+- Hidden Power
+- Rain Dance  
+
+Koffing @ Sitrus Berry  
+Ability: Levitate  
+Tera Type: Water
+Level: 5  
+EVs: 116 HP / 76 Atk / 236 Def / 80 Spe  
+Impish Nature  
+- Sludge Bomb  
+- Hidden Power  
+- Thief  
+- Explosion  
+
+Magnemite @ Sitrus Berry  
+Ability: Sturdy  
+Tera Type: Grass
+Level: 5  
+EVs: 36 Def / 240 SpA / 76 SpD / 156 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hidden Power
+- Toxic  
+- Substitute  
+
+Pineco @ Sitrus Berry  
+Ability: Sturdy  
+Level: 5  
+EVs: 196 HP / 40 Def / 240 SpD  
+Careful Nature  
+- Spikes  
+- Rapid Spin  
+- Light Screen  
+- Explosion  
+
+Duskull @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 196 HP / 36 Atk / 196 Def / 40 SpA / 40 SpD  
+Relaxed Nature  
+- Shadow Ball  
+- Icy Wind  
+- Thief  
+- Memento  
+
+Spoink  
+Ability: Thick Fat  
+Level: 5  
+EVs: 36 HP / 156 Def / 116 SpD / 196 Spe  
+Bold Nature  
+- Thief  
+- Psychic  
+- Icy Wind  
+- Taunt  
 
 
 
@@ -9242,7 +9878,6 @@ Ability: Static
 Level: 5  
 EVs: 240 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Thunderbolt  
 - Ice Punch  
 - Thief  
@@ -9285,7 +9920,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 HP / 76 Def / 120 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Hydro Pump  
 - Thunderbolt  
 - Ice Beam  
@@ -9296,7 +9930,6 @@ Ability: Sand Veil
 Level: 5  
 EVs: 196 HP / 116 Def / 196 SpD  
 Bold Nature  
-IVs: 2 Atk / 30 SpA  
 - Spikes  
 - Giga Drain  
 - Encore  
@@ -9319,7 +9952,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 Def / 200 SpA / 116 SpD / 156 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 SpA  
 - Fire Blast  
 - Crunch  
 - Hidden Power
@@ -9331,7 +9963,6 @@ Tera Type: Ice
 Level: 5  
 EVs: 76 HP / 80 Def / 236 SpA / 116 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 Def  
 - Sunny Day  
 - Solar Beam  
 - Hidden Power
@@ -9339,23 +9970,99 @@ IVs: 2 Atk / 30 Def
 
 Ponyta @ Sitrus Berry  
 Ability: Flash Fire  
-Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
-Timid Nature  
-- Sunny Day  
-- Fire Blast  
-- Solar Beam  
-- Substitute  
-
-Ponyta @ Sitrus Berry  
-Ability: Flash Fire  
+Tera Type: Grass
 Level: 5  
 EVs: 236 SpA / 76 SpD / 196 Spe  
 Hasty Nature  
 - Substitute  
 - Overheat  
-- Body Slam  
+- Hidden Power
 - Toxic  
+
+Bagon @ Sitrus Berry  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 76 HP / 76 Atk / 40 Def / 200 SpD / 116 Spe  
+Careful Nature  
+- Double-Edge  
+- Brick Break  
+- Hidden Power
+- Dragon Dance  
+
+Cubone @ Thick Club  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 36 HP / 196 Atk / 40 SpD / 236 Spe  
+Adamant Nature  
+- Bonemerang  
+- Double-Edge  
+- Hidden Power
+- Protect  
+
+Horsea @ Sitrus Berry  
+Ability: Swift Swim  
+Tera Type: Grass
+Level: 5  
+EVs: 36 HP / 36 Def / 200 SpA / 196 Spe  
+Modest Nature  
+- Hydro Pump  
+- Surf  
+- Hidden Power
+- Rain Dance  
+
+Koffing @ Sitrus Berry  
+Ability: Levitate  
+Tera Type: Water
+Level: 5  
+EVs: 116 HP / 76 Atk / 236 Def / 80 Spe  
+Impish Nature  
+- Sludge Bomb  
+- Hidden Power  
+- Thief  
+- Explosion  
+
+Magnemite @ Sitrus Berry  
+Ability: Sturdy  
+Tera Type: Grass
+Level: 5  
+EVs: 36 Def / 240 SpA / 76 SpD / 156 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hidden Power
+- Toxic  
+- Substitute  
+
+Pineco @ Sitrus Berry  
+Ability: Sturdy  
+Level: 5  
+EVs: 196 HP / 40 Def / 240 SpD  
+Careful Nature  
+- Spikes  
+- Rapid Spin  
+- Light Screen  
+- Explosion  
+
+Duskull @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 196 HP / 36 Atk / 196 Def / 40 SpA / 40 SpD  
+Relaxed Nature  
+- Shadow Ball  
+- Icy Wind  
+- Thief  
+- Memento  
+
+Spoink  
+Ability: Thick Fat  
+Level: 5  
+EVs: 36 HP / 156 Def / 116 SpD / 196 Spe  
+Bold Nature  
+- Thief  
+- Psychic  
+- Icy Wind  
+- Taunt  
 
 
 
@@ -9657,7 +10364,6 @@ Ability: Static
 Level: 5  
 EVs: 240 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Thunderbolt  
 - Ice Punch  
 - Thief  
@@ -9700,7 +10406,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 HP / 76 Def / 120 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Hydro Pump  
 - Thunderbolt  
 - Ice Beam  
@@ -9711,7 +10416,6 @@ Ability: Sand Veil
 Level: 5  
 EVs: 196 HP / 116 Def / 196 SpD  
 Bold Nature  
-IVs: 2 Atk / 30 SpA  
 - Spikes  
 - Giga Drain  
 - Encore  
@@ -9734,7 +10438,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 Def / 200 SpA / 116 SpD / 156 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 SpA  
 - Fire Blast  
 - Crunch  
 - Hidden Power
@@ -9746,7 +10449,6 @@ Tera Type: Ice
 Level: 5  
 EVs: 76 HP / 80 Def / 236 SpA / 116 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 Def  
 - Sunny Day  
 - Solar Beam  
 - Hidden Power
@@ -9754,23 +10456,99 @@ IVs: 2 Atk / 30 Def
 
 Ponyta @ Sitrus Berry  
 Ability: Flash Fire  
-Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
-Timid Nature  
-- Sunny Day  
-- Fire Blast  
-- Solar Beam  
-- Substitute  
-
-Ponyta @ Sitrus Berry  
-Ability: Flash Fire  
+Tera Type: Grass
 Level: 5  
 EVs: 236 SpA / 76 SpD / 196 Spe  
 Hasty Nature  
 - Substitute  
 - Overheat  
-- Body Slam  
+- Hidden Power
 - Toxic  
+
+Bagon @ Sitrus Berry  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 76 HP / 76 Atk / 40 Def / 200 SpD / 116 Spe  
+Careful Nature  
+- Double-Edge  
+- Brick Break  
+- Hidden Power
+- Dragon Dance  
+
+Cubone @ Thick Club  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 36 HP / 196 Atk / 40 SpD / 236 Spe  
+Adamant Nature  
+- Bonemerang  
+- Double-Edge  
+- Hidden Power
+- Protect  
+
+Horsea @ Sitrus Berry  
+Ability: Swift Swim  
+Tera Type: Grass
+Level: 5  
+EVs: 36 HP / 36 Def / 200 SpA / 196 Spe  
+Modest Nature  
+- Hydro Pump  
+- Surf  
+- Hidden Power
+- Rain Dance  
+
+Koffing @ Sitrus Berry  
+Ability: Levitate  
+Tera Type: Water
+Level: 5  
+EVs: 116 HP / 76 Atk / 236 Def / 80 Spe  
+Impish Nature  
+- Sludge Bomb  
+- Hidden Power  
+- Thief  
+- Explosion  
+
+Magnemite @ Sitrus Berry  
+Ability: Sturdy  
+Tera Type: Grass
+Level: 5  
+EVs: 36 Def / 240 SpA / 76 SpD / 156 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hidden Power
+- Toxic  
+- Substitute  
+
+Pineco @ Sitrus Berry  
+Ability: Sturdy  
+Level: 5  
+EVs: 196 HP / 40 Def / 240 SpD  
+Careful Nature  
+- Spikes  
+- Rapid Spin  
+- Light Screen  
+- Explosion  
+
+Duskull @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 196 HP / 36 Atk / 196 Def / 40 SpA / 40 SpD  
+Relaxed Nature  
+- Shadow Ball  
+- Icy Wind  
+- Thief  
+- Memento  
+
+Spoink  
+Ability: Thick Fat  
+Level: 5  
+EVs: 36 HP / 156 Def / 116 SpD / 196 Spe  
+Bold Nature  
+- Thief  
+- Psychic  
+- Icy Wind  
+- Taunt  
 
 
 
@@ -12431,7 +13209,6 @@ Ability: Static
 Level: 5  
 EVs: 240 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Thunderbolt  
 - Ice Punch  
 - Thief  
@@ -12474,7 +13251,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 HP / 76 Def / 120 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Hydro Pump  
 - Thunderbolt  
 - Ice Beam  
@@ -12485,7 +13261,6 @@ Ability: Sand Veil
 Level: 5  
 EVs: 196 HP / 116 Def / 196 SpD  
 Bold Nature  
-IVs: 2 Atk / 30 SpA  
 - Spikes  
 - Giga Drain  
 - Encore  
@@ -12508,7 +13283,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 Def / 200 SpA / 116 SpD / 156 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 SpA  
 - Fire Blast  
 - Crunch  
 - Hidden Power
@@ -12520,7 +13294,6 @@ Tera Type: Ice
 Level: 5  
 EVs: 76 HP / 80 Def / 236 SpA / 116 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 Def  
 - Sunny Day  
 - Solar Beam  
 - Hidden Power
@@ -12528,23 +13301,99 @@ IVs: 2 Atk / 30 Def
 
 Ponyta @ Sitrus Berry  
 Ability: Flash Fire  
-Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
-Timid Nature  
-- Sunny Day  
-- Fire Blast  
-- Solar Beam  
-- Substitute  
-
-Ponyta @ Sitrus Berry  
-Ability: Flash Fire  
+Tera Type: Grass
 Level: 5  
 EVs: 236 SpA / 76 SpD / 196 Spe  
 Hasty Nature  
 - Substitute  
 - Overheat  
-- Body Slam  
+- Hidden Power
 - Toxic  
+
+Bagon @ Sitrus Berry  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 76 HP / 76 Atk / 40 Def / 200 SpD / 116 Spe  
+Careful Nature  
+- Double-Edge  
+- Brick Break  
+- Hidden Power
+- Dragon Dance  
+
+Cubone @ Thick Club  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 36 HP / 196 Atk / 40 SpD / 236 Spe  
+Adamant Nature  
+- Bonemerang  
+- Double-Edge  
+- Hidden Power
+- Protect  
+
+Horsea @ Sitrus Berry  
+Ability: Swift Swim  
+Tera Type: Grass
+Level: 5  
+EVs: 36 HP / 36 Def / 200 SpA / 196 Spe  
+Modest Nature  
+- Hydro Pump  
+- Surf  
+- Hidden Power
+- Rain Dance  
+
+Koffing @ Sitrus Berry  
+Ability: Levitate  
+Tera Type: Water
+Level: 5  
+EVs: 116 HP / 76 Atk / 236 Def / 80 Spe  
+Impish Nature  
+- Sludge Bomb  
+- Hidden Power  
+- Thief  
+- Explosion  
+
+Magnemite @ Sitrus Berry  
+Ability: Sturdy  
+Tera Type: Grass
+Level: 5  
+EVs: 36 Def / 240 SpA / 76 SpD / 156 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hidden Power
+- Toxic  
+- Substitute  
+
+Pineco @ Sitrus Berry  
+Ability: Sturdy  
+Level: 5  
+EVs: 196 HP / 40 Def / 240 SpD  
+Careful Nature  
+- Spikes  
+- Rapid Spin  
+- Light Screen  
+- Explosion  
+
+Duskull @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 196 HP / 36 Atk / 196 Def / 40 SpA / 40 SpD  
+Relaxed Nature  
+- Shadow Ball  
+- Icy Wind  
+- Thief  
+- Memento  
+
+Spoink  
+Ability: Thick Fat  
+Level: 5  
+EVs: 36 HP / 156 Def / 116 SpD / 196 Spe  
+Bold Nature  
+- Thief  
+- Psychic  
+- Icy Wind  
+- Taunt  
 
 
 
@@ -14523,7 +15372,6 @@ Ability: Static
 Level: 5  
 EVs: 240 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Thunderbolt  
 - Ice Punch  
 - Thief  
@@ -14566,7 +15414,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 HP / 76 Def / 120 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Hydro Pump  
 - Thunderbolt  
 - Ice Beam  
@@ -14577,7 +15424,6 @@ Ability: Sand Veil
 Level: 5  
 EVs: 196 HP / 116 Def / 196 SpD  
 Bold Nature  
-IVs: 2 Atk / 30 SpA  
 - Spikes  
 - Giga Drain  
 - Encore  
@@ -14600,7 +15446,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 Def / 200 SpA / 116 SpD / 156 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 SpA  
 - Fire Blast  
 - Crunch  
 - Hidden Power
@@ -14612,7 +15457,6 @@ Tera Type: Ice
 Level: 5  
 EVs: 76 HP / 80 Def / 236 SpA / 116 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 Def  
 - Sunny Day  
 - Solar Beam  
 - Hidden Power
@@ -14620,23 +15464,99 @@ IVs: 2 Atk / 30 Def
 
 Ponyta @ Sitrus Berry  
 Ability: Flash Fire  
-Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
-Timid Nature  
-- Sunny Day  
-- Fire Blast  
-- Solar Beam  
-- Substitute  
-
-Ponyta @ Sitrus Berry  
-Ability: Flash Fire  
+Tera Type: Grass
 Level: 5  
 EVs: 236 SpA / 76 SpD / 196 Spe  
 Hasty Nature  
 - Substitute  
 - Overheat  
-- Body Slam  
+- Hidden Power
 - Toxic  
+
+Bagon @ Sitrus Berry  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 76 HP / 76 Atk / 40 Def / 200 SpD / 116 Spe  
+Careful Nature  
+- Double-Edge  
+- Brick Break  
+- Hidden Power
+- Dragon Dance  
+
+Cubone @ Thick Club  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 36 HP / 196 Atk / 40 SpD / 236 Spe  
+Adamant Nature  
+- Bonemerang  
+- Double-Edge  
+- Hidden Power
+- Protect  
+
+Horsea @ Sitrus Berry  
+Ability: Swift Swim  
+Tera Type: Grass
+Level: 5  
+EVs: 36 HP / 36 Def / 200 SpA / 196 Spe  
+Modest Nature  
+- Hydro Pump  
+- Surf  
+- Hidden Power
+- Rain Dance  
+
+Koffing @ Sitrus Berry  
+Ability: Levitate  
+Tera Type: Water
+Level: 5  
+EVs: 116 HP / 76 Atk / 236 Def / 80 Spe  
+Impish Nature  
+- Sludge Bomb  
+- Hidden Power  
+- Thief  
+- Explosion  
+
+Magnemite @ Sitrus Berry  
+Ability: Sturdy  
+Tera Type: Grass
+Level: 5  
+EVs: 36 Def / 240 SpA / 76 SpD / 156 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hidden Power
+- Toxic  
+- Substitute  
+
+Pineco @ Sitrus Berry  
+Ability: Sturdy  
+Level: 5  
+EVs: 196 HP / 40 Def / 240 SpD  
+Careful Nature  
+- Spikes  
+- Rapid Spin  
+- Light Screen  
+- Explosion  
+
+Duskull @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 196 HP / 36 Atk / 196 Def / 40 SpA / 40 SpD  
+Relaxed Nature  
+- Shadow Ball  
+- Icy Wind  
+- Thief  
+- Memento  
+
+Spoink  
+Ability: Thick Fat  
+Level: 5  
+EVs: 36 HP / 156 Def / 116 SpD / 196 Spe  
+Bold Nature  
+- Thief  
+- Psychic  
+- Icy Wind  
+- Taunt  
 
 
 === TRAINER_BRENDEN ===
@@ -15316,7 +16236,6 @@ Ability: Static
 Level: 5  
 EVs: 240 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Thunderbolt  
 - Ice Punch  
 - Thief  
@@ -15359,7 +16278,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 HP / 76 Def / 120 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Hydro Pump  
 - Thunderbolt  
 - Ice Beam  
@@ -15370,7 +16288,6 @@ Ability: Sand Veil
 Level: 5  
 EVs: 196 HP / 116 Def / 196 SpD  
 Bold Nature  
-IVs: 2 Atk / 30 SpA  
 - Spikes  
 - Giga Drain  
 - Encore  
@@ -15393,7 +16310,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 Def / 200 SpA / 116 SpD / 156 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 SpA  
 - Fire Blast  
 - Crunch  
 - Hidden Power
@@ -15405,7 +16321,6 @@ Tera Type: Ice
 Level: 5  
 EVs: 76 HP / 80 Def / 236 SpA / 116 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 Def  
 - Sunny Day  
 - Solar Beam  
 - Hidden Power
@@ -15413,23 +16328,99 @@ IVs: 2 Atk / 30 Def
 
 Ponyta @ Sitrus Berry  
 Ability: Flash Fire  
-Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
-Timid Nature  
-- Sunny Day  
-- Fire Blast  
-- Solar Beam  
-- Substitute  
-
-Ponyta @ Sitrus Berry  
-Ability: Flash Fire  
+Tera Type: Grass
 Level: 5  
 EVs: 236 SpA / 76 SpD / 196 Spe  
 Hasty Nature  
 - Substitute  
 - Overheat  
-- Body Slam  
+- Hidden Power
 - Toxic  
+
+Bagon @ Sitrus Berry  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 76 HP / 76 Atk / 40 Def / 200 SpD / 116 Spe  
+Careful Nature  
+- Double-Edge  
+- Brick Break  
+- Hidden Power
+- Dragon Dance  
+
+Cubone @ Thick Club  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 36 HP / 196 Atk / 40 SpD / 236 Spe  
+Adamant Nature  
+- Bonemerang  
+- Double-Edge  
+- Hidden Power
+- Protect  
+
+Horsea @ Sitrus Berry  
+Ability: Swift Swim  
+Tera Type: Grass
+Level: 5  
+EVs: 36 HP / 36 Def / 200 SpA / 196 Spe  
+Modest Nature  
+- Hydro Pump  
+- Surf  
+- Hidden Power
+- Rain Dance  
+
+Koffing @ Sitrus Berry  
+Ability: Levitate  
+Tera Type: Water
+Level: 5  
+EVs: 116 HP / 76 Atk / 236 Def / 80 Spe  
+Impish Nature  
+- Sludge Bomb  
+- Hidden Power  
+- Thief  
+- Explosion  
+
+Magnemite @ Sitrus Berry  
+Ability: Sturdy  
+Tera Type: Grass
+Level: 5  
+EVs: 36 Def / 240 SpA / 76 SpD / 156 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hidden Power
+- Toxic  
+- Substitute  
+
+Pineco @ Sitrus Berry  
+Ability: Sturdy  
+Level: 5  
+EVs: 196 HP / 40 Def / 240 SpD  
+Careful Nature  
+- Spikes  
+- Rapid Spin  
+- Light Screen  
+- Explosion  
+
+Duskull @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 196 HP / 36 Atk / 196 Def / 40 SpA / 40 SpD  
+Relaxed Nature  
+- Shadow Ball  
+- Icy Wind  
+- Thief  
+- Memento  
+
+Spoink  
+Ability: Thick Fat  
+Level: 5  
+EVs: 36 HP / 156 Def / 116 SpD / 196 Spe  
+Bold Nature  
+- Thief  
+- Psychic  
+- Icy Wind  
+- Taunt  
 
 
 
@@ -15634,7 +16625,6 @@ Ability: Static
 Level: 5  
 EVs: 240 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Thunderbolt  
 - Ice Punch  
 - Thief  
@@ -15677,7 +16667,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 HP / 76 Def / 120 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Hydro Pump  
 - Thunderbolt  
 - Ice Beam  
@@ -15688,7 +16677,6 @@ Ability: Sand Veil
 Level: 5  
 EVs: 196 HP / 116 Def / 196 SpD  
 Bold Nature  
-IVs: 2 Atk / 30 SpA  
 - Spikes  
 - Giga Drain  
 - Encore  
@@ -15711,7 +16699,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 Def / 200 SpA / 116 SpD / 156 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 SpA  
 - Fire Blast  
 - Crunch  
 - Hidden Power
@@ -15723,7 +16710,6 @@ Tera Type: Ice
 Level: 5  
 EVs: 76 HP / 80 Def / 236 SpA / 116 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 Def  
 - Sunny Day  
 - Solar Beam  
 - Hidden Power
@@ -15731,23 +16717,99 @@ IVs: 2 Atk / 30 Def
 
 Ponyta @ Sitrus Berry  
 Ability: Flash Fire  
-Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
-Timid Nature  
-- Sunny Day  
-- Fire Blast  
-- Solar Beam  
-- Substitute  
-
-Ponyta @ Sitrus Berry  
-Ability: Flash Fire  
+Tera Type: Grass
 Level: 5  
 EVs: 236 SpA / 76 SpD / 196 Spe  
 Hasty Nature  
 - Substitute  
 - Overheat  
-- Body Slam  
+- Hidden Power
 - Toxic  
+
+Bagon @ Sitrus Berry  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 76 HP / 76 Atk / 40 Def / 200 SpD / 116 Spe  
+Careful Nature  
+- Double-Edge  
+- Brick Break  
+- Hidden Power
+- Dragon Dance  
+
+Cubone @ Thick Club  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 36 HP / 196 Atk / 40 SpD / 236 Spe  
+Adamant Nature  
+- Bonemerang  
+- Double-Edge  
+- Hidden Power
+- Protect  
+
+Horsea @ Sitrus Berry  
+Ability: Swift Swim  
+Tera Type: Grass
+Level: 5  
+EVs: 36 HP / 36 Def / 200 SpA / 196 Spe  
+Modest Nature  
+- Hydro Pump  
+- Surf  
+- Hidden Power
+- Rain Dance  
+
+Koffing @ Sitrus Berry  
+Ability: Levitate  
+Tera Type: Water
+Level: 5  
+EVs: 116 HP / 76 Atk / 236 Def / 80 Spe  
+Impish Nature  
+- Sludge Bomb  
+- Hidden Power  
+- Thief  
+- Explosion  
+
+Magnemite @ Sitrus Berry  
+Ability: Sturdy  
+Tera Type: Grass
+Level: 5  
+EVs: 36 Def / 240 SpA / 76 SpD / 156 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hidden Power
+- Toxic  
+- Substitute  
+
+Pineco @ Sitrus Berry  
+Ability: Sturdy  
+Level: 5  
+EVs: 196 HP / 40 Def / 240 SpD  
+Careful Nature  
+- Spikes  
+- Rapid Spin  
+- Light Screen  
+- Explosion  
+
+Duskull @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 196 HP / 36 Atk / 196 Def / 40 SpA / 40 SpD  
+Relaxed Nature  
+- Shadow Ball  
+- Icy Wind  
+- Thief  
+- Memento  
+
+Spoink  
+Ability: Thick Fat  
+Level: 5  
+EVs: 36 HP / 156 Def / 116 SpD / 196 Spe  
+Bold Nature  
+- Thief  
+- Psychic  
+- Icy Wind  
+- Taunt  
 
 
 
@@ -15952,7 +17014,6 @@ Ability: Static
 Level: 5  
 EVs: 240 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Thunderbolt  
 - Ice Punch  
 - Thief  
@@ -15995,7 +17056,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 HP / 76 Def / 120 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Hydro Pump  
 - Thunderbolt  
 - Ice Beam  
@@ -16006,7 +17066,6 @@ Ability: Sand Veil
 Level: 5  
 EVs: 196 HP / 116 Def / 196 SpD  
 Bold Nature  
-IVs: 2 Atk / 30 SpA  
 - Spikes  
 - Giga Drain  
 - Encore  
@@ -16029,7 +17088,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 Def / 200 SpA / 116 SpD / 156 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 SpA  
 - Fire Blast  
 - Crunch  
 - Hidden Power
@@ -16041,7 +17099,6 @@ Tera Type: Ice
 Level: 5  
 EVs: 76 HP / 80 Def / 236 SpA / 116 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 Def  
 - Sunny Day  
 - Solar Beam  
 - Hidden Power
@@ -16049,23 +17106,99 @@ IVs: 2 Atk / 30 Def
 
 Ponyta @ Sitrus Berry  
 Ability: Flash Fire  
-Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
-Timid Nature  
-- Sunny Day  
-- Fire Blast  
-- Solar Beam  
-- Substitute  
-
-Ponyta @ Sitrus Berry  
-Ability: Flash Fire  
+Tera Type: Grass
 Level: 5  
 EVs: 236 SpA / 76 SpD / 196 Spe  
 Hasty Nature  
 - Substitute  
 - Overheat  
-- Body Slam  
+- Hidden Power
 - Toxic  
+
+Bagon @ Sitrus Berry  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 76 HP / 76 Atk / 40 Def / 200 SpD / 116 Spe  
+Careful Nature  
+- Double-Edge  
+- Brick Break  
+- Hidden Power
+- Dragon Dance  
+
+Cubone @ Thick Club  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 36 HP / 196 Atk / 40 SpD / 236 Spe  
+Adamant Nature  
+- Bonemerang  
+- Double-Edge  
+- Hidden Power
+- Protect  
+
+Horsea @ Sitrus Berry  
+Ability: Swift Swim  
+Tera Type: Grass
+Level: 5  
+EVs: 36 HP / 36 Def / 200 SpA / 196 Spe  
+Modest Nature  
+- Hydro Pump  
+- Surf  
+- Hidden Power
+- Rain Dance  
+
+Koffing @ Sitrus Berry  
+Ability: Levitate  
+Tera Type: Water
+Level: 5  
+EVs: 116 HP / 76 Atk / 236 Def / 80 Spe  
+Impish Nature  
+- Sludge Bomb  
+- Hidden Power  
+- Thief  
+- Explosion  
+
+Magnemite @ Sitrus Berry  
+Ability: Sturdy  
+Tera Type: Grass
+Level: 5  
+EVs: 36 Def / 240 SpA / 76 SpD / 156 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hidden Power
+- Toxic  
+- Substitute  
+
+Pineco @ Sitrus Berry  
+Ability: Sturdy  
+Level: 5  
+EVs: 196 HP / 40 Def / 240 SpD  
+Careful Nature  
+- Spikes  
+- Rapid Spin  
+- Light Screen  
+- Explosion  
+
+Duskull @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 196 HP / 36 Atk / 196 Def / 40 SpA / 40 SpD  
+Relaxed Nature  
+- Shadow Ball  
+- Icy Wind  
+- Thief  
+- Memento  
+
+Spoink  
+Ability: Thick Fat  
+Level: 5  
+EVs: 36 HP / 156 Def / 116 SpD / 196 Spe  
+Bold Nature  
+- Thief  
+- Psychic  
+- Icy Wind  
+- Taunt  
 
 
 
@@ -16427,7 +17560,6 @@ Ability: Static
 Level: 5  
 EVs: 240 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Thunderbolt  
 - Ice Punch  
 - Thief  
@@ -16470,7 +17602,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 HP / 76 Def / 120 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Hydro Pump  
 - Thunderbolt  
 - Ice Beam  
@@ -16481,7 +17612,6 @@ Ability: Sand Veil
 Level: 5  
 EVs: 196 HP / 116 Def / 196 SpD  
 Bold Nature  
-IVs: 2 Atk / 30 SpA  
 - Spikes  
 - Giga Drain  
 - Encore  
@@ -16504,7 +17634,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 Def / 200 SpA / 116 SpD / 156 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 SpA  
 - Fire Blast  
 - Crunch  
 - Hidden Power
@@ -16516,7 +17645,6 @@ Tera Type: Ice
 Level: 5  
 EVs: 76 HP / 80 Def / 236 SpA / 116 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 Def  
 - Sunny Day  
 - Solar Beam  
 - Hidden Power
@@ -16524,23 +17652,99 @@ IVs: 2 Atk / 30 Def
 
 Ponyta @ Sitrus Berry  
 Ability: Flash Fire  
-Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
-Timid Nature  
-- Sunny Day  
-- Fire Blast  
-- Solar Beam  
-- Substitute  
-
-Ponyta @ Sitrus Berry  
-Ability: Flash Fire  
+Tera Type: Grass
 Level: 5  
 EVs: 236 SpA / 76 SpD / 196 Spe  
 Hasty Nature  
 - Substitute  
 - Overheat  
-- Body Slam  
+- Hidden Power
 - Toxic  
+
+Bagon @ Sitrus Berry  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 76 HP / 76 Atk / 40 Def / 200 SpD / 116 Spe  
+Careful Nature  
+- Double-Edge  
+- Brick Break  
+- Hidden Power
+- Dragon Dance  
+
+Cubone @ Thick Club  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 36 HP / 196 Atk / 40 SpD / 236 Spe  
+Adamant Nature  
+- Bonemerang  
+- Double-Edge  
+- Hidden Power
+- Protect  
+
+Horsea @ Sitrus Berry  
+Ability: Swift Swim  
+Tera Type: Grass
+Level: 5  
+EVs: 36 HP / 36 Def / 200 SpA / 196 Spe  
+Modest Nature  
+- Hydro Pump  
+- Surf  
+- Hidden Power
+- Rain Dance  
+
+Koffing @ Sitrus Berry  
+Ability: Levitate  
+Tera Type: Water
+Level: 5  
+EVs: 116 HP / 76 Atk / 236 Def / 80 Spe  
+Impish Nature  
+- Sludge Bomb  
+- Hidden Power  
+- Thief  
+- Explosion  
+
+Magnemite @ Sitrus Berry  
+Ability: Sturdy  
+Tera Type: Grass
+Level: 5  
+EVs: 36 Def / 240 SpA / 76 SpD / 156 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hidden Power
+- Toxic  
+- Substitute  
+
+Pineco @ Sitrus Berry  
+Ability: Sturdy  
+Level: 5  
+EVs: 196 HP / 40 Def / 240 SpD  
+Careful Nature  
+- Spikes  
+- Rapid Spin  
+- Light Screen  
+- Explosion  
+
+Duskull @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 196 HP / 36 Atk / 196 Def / 40 SpA / 40 SpD  
+Relaxed Nature  
+- Shadow Ball  
+- Icy Wind  
+- Thief  
+- Memento  
+
+Spoink  
+Ability: Thick Fat  
+Level: 5  
+EVs: 36 HP / 156 Def / 116 SpD / 196 Spe  
+Bold Nature  
+- Thief  
+- Psychic  
+- Icy Wind  
+- Taunt  
 
 
 
@@ -16745,7 +17949,6 @@ Ability: Static
 Level: 5  
 EVs: 240 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Thunderbolt  
 - Ice Punch  
 - Thief  
@@ -16788,7 +17991,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 HP / 76 Def / 120 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Hydro Pump  
 - Thunderbolt  
 - Ice Beam  
@@ -16799,7 +18001,6 @@ Ability: Sand Veil
 Level: 5  
 EVs: 196 HP / 116 Def / 196 SpD  
 Bold Nature  
-IVs: 2 Atk / 30 SpA  
 - Spikes  
 - Giga Drain  
 - Encore  
@@ -16822,7 +18023,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 Def / 200 SpA / 116 SpD / 156 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 SpA  
 - Fire Blast  
 - Crunch  
 - Hidden Power
@@ -16834,7 +18034,6 @@ Tera Type: Ice
 Level: 5  
 EVs: 76 HP / 80 Def / 236 SpA / 116 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 Def  
 - Sunny Day  
 - Solar Beam  
 - Hidden Power
@@ -16842,23 +18041,99 @@ IVs: 2 Atk / 30 Def
 
 Ponyta @ Sitrus Berry  
 Ability: Flash Fire  
-Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
-Timid Nature  
-- Sunny Day  
-- Fire Blast  
-- Solar Beam  
-- Substitute  
-
-Ponyta @ Sitrus Berry  
-Ability: Flash Fire  
+Tera Type: Grass
 Level: 5  
 EVs: 236 SpA / 76 SpD / 196 Spe  
 Hasty Nature  
 - Substitute  
 - Overheat  
-- Body Slam  
+- Hidden Power
 - Toxic  
+
+Bagon @ Sitrus Berry  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 76 HP / 76 Atk / 40 Def / 200 SpD / 116 Spe  
+Careful Nature  
+- Double-Edge  
+- Brick Break  
+- Hidden Power
+- Dragon Dance  
+
+Cubone @ Thick Club  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 36 HP / 196 Atk / 40 SpD / 236 Spe  
+Adamant Nature  
+- Bonemerang  
+- Double-Edge  
+- Hidden Power
+- Protect  
+
+Horsea @ Sitrus Berry  
+Ability: Swift Swim  
+Tera Type: Grass
+Level: 5  
+EVs: 36 HP / 36 Def / 200 SpA / 196 Spe  
+Modest Nature  
+- Hydro Pump  
+- Surf  
+- Hidden Power
+- Rain Dance  
+
+Koffing @ Sitrus Berry  
+Ability: Levitate  
+Tera Type: Water
+Level: 5  
+EVs: 116 HP / 76 Atk / 236 Def / 80 Spe  
+Impish Nature  
+- Sludge Bomb  
+- Hidden Power  
+- Thief  
+- Explosion  
+
+Magnemite @ Sitrus Berry  
+Ability: Sturdy  
+Tera Type: Grass
+Level: 5  
+EVs: 36 Def / 240 SpA / 76 SpD / 156 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hidden Power
+- Toxic  
+- Substitute  
+
+Pineco @ Sitrus Berry  
+Ability: Sturdy  
+Level: 5  
+EVs: 196 HP / 40 Def / 240 SpD  
+Careful Nature  
+- Spikes  
+- Rapid Spin  
+- Light Screen  
+- Explosion  
+
+Duskull @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 196 HP / 36 Atk / 196 Def / 40 SpA / 40 SpD  
+Relaxed Nature  
+- Shadow Ball  
+- Icy Wind  
+- Thief  
+- Memento  
+
+Spoink  
+Ability: Thick Fat  
+Level: 5  
+EVs: 36 HP / 156 Def / 116 SpD / 196 Spe  
+Bold Nature  
+- Thief  
+- Psychic  
+- Icy Wind  
+- Taunt  
 
 
 
@@ -17063,7 +18338,6 @@ Ability: Static
 Level: 5  
 EVs: 240 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Thunderbolt  
 - Ice Punch  
 - Thief  
@@ -17106,7 +18380,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 HP / 76 Def / 120 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Hydro Pump  
 - Thunderbolt  
 - Ice Beam  
@@ -17117,7 +18390,6 @@ Ability: Sand Veil
 Level: 5  
 EVs: 196 HP / 116 Def / 196 SpD  
 Bold Nature  
-IVs: 2 Atk / 30 SpA  
 - Spikes  
 - Giga Drain  
 - Encore  
@@ -17140,7 +18412,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 Def / 200 SpA / 116 SpD / 156 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 SpA  
 - Fire Blast  
 - Crunch  
 - Hidden Power
@@ -17152,7 +18423,6 @@ Tera Type: Ice
 Level: 5  
 EVs: 76 HP / 80 Def / 236 SpA / 116 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 Def  
 - Sunny Day  
 - Solar Beam  
 - Hidden Power
@@ -17160,23 +18430,99 @@ IVs: 2 Atk / 30 Def
 
 Ponyta @ Sitrus Berry  
 Ability: Flash Fire  
-Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
-Timid Nature  
-- Sunny Day  
-- Fire Blast  
-- Solar Beam  
-- Substitute  
-
-Ponyta @ Sitrus Berry  
-Ability: Flash Fire  
+Tera Type: Grass
 Level: 5  
 EVs: 236 SpA / 76 SpD / 196 Spe  
 Hasty Nature  
 - Substitute  
 - Overheat  
-- Body Slam  
+- Hidden Power
 - Toxic  
+
+Bagon @ Sitrus Berry  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 76 HP / 76 Atk / 40 Def / 200 SpD / 116 Spe  
+Careful Nature  
+- Double-Edge  
+- Brick Break  
+- Hidden Power
+- Dragon Dance  
+
+Cubone @ Thick Club  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 36 HP / 196 Atk / 40 SpD / 236 Spe  
+Adamant Nature  
+- Bonemerang  
+- Double-Edge  
+- Hidden Power
+- Protect  
+
+Horsea @ Sitrus Berry  
+Ability: Swift Swim  
+Tera Type: Grass
+Level: 5  
+EVs: 36 HP / 36 Def / 200 SpA / 196 Spe  
+Modest Nature  
+- Hydro Pump  
+- Surf  
+- Hidden Power
+- Rain Dance  
+
+Koffing @ Sitrus Berry  
+Ability: Levitate  
+Tera Type: Water
+Level: 5  
+EVs: 116 HP / 76 Atk / 236 Def / 80 Spe  
+Impish Nature  
+- Sludge Bomb  
+- Hidden Power  
+- Thief  
+- Explosion  
+
+Magnemite @ Sitrus Berry  
+Ability: Sturdy  
+Tera Type: Grass
+Level: 5  
+EVs: 36 Def / 240 SpA / 76 SpD / 156 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hidden Power
+- Toxic  
+- Substitute  
+
+Pineco @ Sitrus Berry  
+Ability: Sturdy  
+Level: 5  
+EVs: 196 HP / 40 Def / 240 SpD  
+Careful Nature  
+- Spikes  
+- Rapid Spin  
+- Light Screen  
+- Explosion  
+
+Duskull @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 196 HP / 36 Atk / 196 Def / 40 SpA / 40 SpD  
+Relaxed Nature  
+- Shadow Ball  
+- Icy Wind  
+- Thief  
+- Memento  
+
+Spoink  
+Ability: Thick Fat  
+Level: 5  
+EVs: 36 HP / 156 Def / 116 SpD / 196 Spe  
+Bold Nature  
+- Thief  
+- Psychic  
+- Icy Wind  
+- Taunt  
 
 
 
@@ -17428,7 +18774,6 @@ Ability: Static
 Level: 5  
 EVs: 240 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Thunderbolt  
 - Ice Punch  
 - Thief  
@@ -17471,7 +18816,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 HP / 76 Def / 120 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Hydro Pump  
 - Thunderbolt  
 - Ice Beam  
@@ -17482,7 +18826,6 @@ Ability: Sand Veil
 Level: 5  
 EVs: 196 HP / 116 Def / 196 SpD  
 Bold Nature  
-IVs: 2 Atk / 30 SpA  
 - Spikes  
 - Giga Drain  
 - Encore  
@@ -17505,7 +18848,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 Def / 200 SpA / 116 SpD / 156 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 SpA  
 - Fire Blast  
 - Crunch  
 - Hidden Power
@@ -17517,7 +18859,6 @@ Tera Type: Ice
 Level: 5  
 EVs: 76 HP / 80 Def / 236 SpA / 116 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 Def  
 - Sunny Day  
 - Solar Beam  
 - Hidden Power
@@ -17525,23 +18866,99 @@ IVs: 2 Atk / 30 Def
 
 Ponyta @ Sitrus Berry  
 Ability: Flash Fire  
-Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
-Timid Nature  
-- Sunny Day  
-- Fire Blast  
-- Solar Beam  
-- Substitute  
-
-Ponyta @ Sitrus Berry  
-Ability: Flash Fire  
+Tera Type: Grass
 Level: 5  
 EVs: 236 SpA / 76 SpD / 196 Spe  
 Hasty Nature  
 - Substitute  
 - Overheat  
-- Body Slam  
+- Hidden Power
 - Toxic  
+
+Bagon @ Sitrus Berry  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 76 HP / 76 Atk / 40 Def / 200 SpD / 116 Spe  
+Careful Nature  
+- Double-Edge  
+- Brick Break  
+- Hidden Power
+- Dragon Dance  
+
+Cubone @ Thick Club  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 36 HP / 196 Atk / 40 SpD / 236 Spe  
+Adamant Nature  
+- Bonemerang  
+- Double-Edge  
+- Hidden Power
+- Protect  
+
+Horsea @ Sitrus Berry  
+Ability: Swift Swim  
+Tera Type: Grass
+Level: 5  
+EVs: 36 HP / 36 Def / 200 SpA / 196 Spe  
+Modest Nature  
+- Hydro Pump  
+- Surf  
+- Hidden Power
+- Rain Dance  
+
+Koffing @ Sitrus Berry  
+Ability: Levitate  
+Tera Type: Water
+Level: 5  
+EVs: 116 HP / 76 Atk / 236 Def / 80 Spe  
+Impish Nature  
+- Sludge Bomb  
+- Hidden Power  
+- Thief  
+- Explosion  
+
+Magnemite @ Sitrus Berry  
+Ability: Sturdy  
+Tera Type: Grass
+Level: 5  
+EVs: 36 Def / 240 SpA / 76 SpD / 156 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hidden Power
+- Toxic  
+- Substitute  
+
+Pineco @ Sitrus Berry  
+Ability: Sturdy  
+Level: 5  
+EVs: 196 HP / 40 Def / 240 SpD  
+Careful Nature  
+- Spikes  
+- Rapid Spin  
+- Light Screen  
+- Explosion  
+
+Duskull @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 196 HP / 36 Atk / 196 Def / 40 SpA / 40 SpD  
+Relaxed Nature  
+- Shadow Ball  
+- Icy Wind  
+- Thief  
+- Memento  
+
+Spoink  
+Ability: Thick Fat  
+Level: 5  
+EVs: 36 HP / 156 Def / 116 SpD / 196 Spe  
+Bold Nature  
+- Thief  
+- Psychic  
+- Icy Wind  
+- Taunt  
 
 
 
@@ -17915,7 +19332,6 @@ Ability: Static
 Level: 5  
 EVs: 240 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Thunderbolt  
 - Ice Punch  
 - Thief  
@@ -17958,7 +19374,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 HP / 76 Def / 120 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Hydro Pump  
 - Thunderbolt  
 - Ice Beam  
@@ -17969,7 +19384,6 @@ Ability: Sand Veil
 Level: 5  
 EVs: 196 HP / 116 Def / 196 SpD  
 Bold Nature  
-IVs: 2 Atk / 30 SpA  
 - Spikes  
 - Giga Drain  
 - Encore  
@@ -17992,7 +19406,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 Def / 200 SpA / 116 SpD / 156 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 SpA  
 - Fire Blast  
 - Crunch  
 - Hidden Power
@@ -18004,7 +19417,6 @@ Tera Type: Ice
 Level: 5  
 EVs: 76 HP / 80 Def / 236 SpA / 116 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 Def  
 - Sunny Day  
 - Solar Beam  
 - Hidden Power
@@ -18012,23 +19424,99 @@ IVs: 2 Atk / 30 Def
 
 Ponyta @ Sitrus Berry  
 Ability: Flash Fire  
-Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
-Timid Nature  
-- Sunny Day  
-- Fire Blast  
-- Solar Beam  
-- Substitute  
-
-Ponyta @ Sitrus Berry  
-Ability: Flash Fire  
+Tera Type: Grass
 Level: 5  
 EVs: 236 SpA / 76 SpD / 196 Spe  
 Hasty Nature  
 - Substitute  
 - Overheat  
-- Body Slam  
+- Hidden Power
 - Toxic  
+
+Bagon @ Sitrus Berry  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 76 HP / 76 Atk / 40 Def / 200 SpD / 116 Spe  
+Careful Nature  
+- Double-Edge  
+- Brick Break  
+- Hidden Power
+- Dragon Dance  
+
+Cubone @ Thick Club  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 36 HP / 196 Atk / 40 SpD / 236 Spe  
+Adamant Nature  
+- Bonemerang  
+- Double-Edge  
+- Hidden Power
+- Protect  
+
+Horsea @ Sitrus Berry  
+Ability: Swift Swim  
+Tera Type: Grass
+Level: 5  
+EVs: 36 HP / 36 Def / 200 SpA / 196 Spe  
+Modest Nature  
+- Hydro Pump  
+- Surf  
+- Hidden Power
+- Rain Dance  
+
+Koffing @ Sitrus Berry  
+Ability: Levitate  
+Tera Type: Water
+Level: 5  
+EVs: 116 HP / 76 Atk / 236 Def / 80 Spe  
+Impish Nature  
+- Sludge Bomb  
+- Hidden Power  
+- Thief  
+- Explosion  
+
+Magnemite @ Sitrus Berry  
+Ability: Sturdy  
+Tera Type: Grass
+Level: 5  
+EVs: 36 Def / 240 SpA / 76 SpD / 156 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hidden Power
+- Toxic  
+- Substitute  
+
+Pineco @ Sitrus Berry  
+Ability: Sturdy  
+Level: 5  
+EVs: 196 HP / 40 Def / 240 SpD  
+Careful Nature  
+- Spikes  
+- Rapid Spin  
+- Light Screen  
+- Explosion  
+
+Duskull @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 196 HP / 36 Atk / 196 Def / 40 SpA / 40 SpD  
+Relaxed Nature  
+- Shadow Ball  
+- Icy Wind  
+- Thief  
+- Memento  
+
+Spoink  
+Ability: Thick Fat  
+Level: 5  
+EVs: 36 HP / 156 Def / 116 SpD / 196 Spe  
+Bold Nature  
+- Thief  
+- Psychic  
+- Icy Wind  
+- Taunt  
 
 
 
@@ -19612,7 +21100,6 @@ Ability: Static
 Level: 5  
 EVs: 240 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Thunderbolt  
 - Ice Punch  
 - Thief  
@@ -19655,7 +21142,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 HP / 76 Def / 120 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Hydro Pump  
 - Thunderbolt  
 - Ice Beam  
@@ -19666,7 +21152,6 @@ Ability: Sand Veil
 Level: 5  
 EVs: 196 HP / 116 Def / 196 SpD  
 Bold Nature  
-IVs: 2 Atk / 30 SpA  
 - Spikes  
 - Giga Drain  
 - Encore  
@@ -19689,7 +21174,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 Def / 200 SpA / 116 SpD / 156 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 SpA  
 - Fire Blast  
 - Crunch  
 - Hidden Power
@@ -19701,7 +21185,6 @@ Tera Type: Ice
 Level: 5  
 EVs: 76 HP / 80 Def / 236 SpA / 116 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 Def  
 - Sunny Day  
 - Solar Beam  
 - Hidden Power
@@ -19709,23 +21192,99 @@ IVs: 2 Atk / 30 Def
 
 Ponyta @ Sitrus Berry  
 Ability: Flash Fire  
-Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
-Timid Nature  
-- Sunny Day  
-- Fire Blast  
-- Solar Beam  
-- Substitute  
-
-Ponyta @ Sitrus Berry  
-Ability: Flash Fire  
+Tera Type: Grass
 Level: 5  
 EVs: 236 SpA / 76 SpD / 196 Spe  
 Hasty Nature  
 - Substitute  
 - Overheat  
-- Body Slam  
+- Hidden Power
 - Toxic  
+
+Bagon @ Sitrus Berry  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 76 HP / 76 Atk / 40 Def / 200 SpD / 116 Spe  
+Careful Nature  
+- Double-Edge  
+- Brick Break  
+- Hidden Power
+- Dragon Dance  
+
+Cubone @ Thick Club  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 36 HP / 196 Atk / 40 SpD / 236 Spe  
+Adamant Nature  
+- Bonemerang  
+- Double-Edge  
+- Hidden Power
+- Protect  
+
+Horsea @ Sitrus Berry  
+Ability: Swift Swim  
+Tera Type: Grass
+Level: 5  
+EVs: 36 HP / 36 Def / 200 SpA / 196 Spe  
+Modest Nature  
+- Hydro Pump  
+- Surf  
+- Hidden Power
+- Rain Dance  
+
+Koffing @ Sitrus Berry  
+Ability: Levitate  
+Tera Type: Water
+Level: 5  
+EVs: 116 HP / 76 Atk / 236 Def / 80 Spe  
+Impish Nature  
+- Sludge Bomb  
+- Hidden Power  
+- Thief  
+- Explosion  
+
+Magnemite @ Sitrus Berry  
+Ability: Sturdy  
+Tera Type: Grass
+Level: 5  
+EVs: 36 Def / 240 SpA / 76 SpD / 156 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hidden Power
+- Toxic  
+- Substitute  
+
+Pineco @ Sitrus Berry  
+Ability: Sturdy  
+Level: 5  
+EVs: 196 HP / 40 Def / 240 SpD  
+Careful Nature  
+- Spikes  
+- Rapid Spin  
+- Light Screen  
+- Explosion  
+
+Duskull @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 196 HP / 36 Atk / 196 Def / 40 SpA / 40 SpD  
+Relaxed Nature  
+- Shadow Ball  
+- Icy Wind  
+- Thief  
+- Memento  
+
+Spoink  
+Ability: Thick Fat  
+Level: 5  
+EVs: 36 HP / 156 Def / 116 SpD / 196 Spe  
+Bold Nature  
+- Thief  
+- Psychic  
+- Icy Wind  
+- Taunt  
 
 
 
@@ -19930,7 +21489,6 @@ Ability: Static
 Level: 5  
 EVs: 240 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Thunderbolt  
 - Ice Punch  
 - Thief  
@@ -19973,7 +21531,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 HP / 76 Def / 120 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Hydro Pump  
 - Thunderbolt  
 - Ice Beam  
@@ -19984,7 +21541,6 @@ Ability: Sand Veil
 Level: 5  
 EVs: 196 HP / 116 Def / 196 SpD  
 Bold Nature  
-IVs: 2 Atk / 30 SpA  
 - Spikes  
 - Giga Drain  
 - Encore  
@@ -20007,7 +21563,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 Def / 200 SpA / 116 SpD / 156 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 SpA  
 - Fire Blast  
 - Crunch  
 - Hidden Power
@@ -20019,7 +21574,6 @@ Tera Type: Ice
 Level: 5  
 EVs: 76 HP / 80 Def / 236 SpA / 116 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 Def  
 - Sunny Day  
 - Solar Beam  
 - Hidden Power
@@ -20027,23 +21581,99 @@ IVs: 2 Atk / 30 Def
 
 Ponyta @ Sitrus Berry  
 Ability: Flash Fire  
-Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
-Timid Nature  
-- Sunny Day  
-- Fire Blast  
-- Solar Beam  
-- Substitute  
-
-Ponyta @ Sitrus Berry  
-Ability: Flash Fire  
+Tera Type: Grass
 Level: 5  
 EVs: 236 SpA / 76 SpD / 196 Spe  
 Hasty Nature  
 - Substitute  
 - Overheat  
-- Body Slam  
+- Hidden Power
 - Toxic  
+
+Bagon @ Sitrus Berry  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 76 HP / 76 Atk / 40 Def / 200 SpD / 116 Spe  
+Careful Nature  
+- Double-Edge  
+- Brick Break  
+- Hidden Power
+- Dragon Dance  
+
+Cubone @ Thick Club  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 36 HP / 196 Atk / 40 SpD / 236 Spe  
+Adamant Nature  
+- Bonemerang  
+- Double-Edge  
+- Hidden Power
+- Protect  
+
+Horsea @ Sitrus Berry  
+Ability: Swift Swim  
+Tera Type: Grass
+Level: 5  
+EVs: 36 HP / 36 Def / 200 SpA / 196 Spe  
+Modest Nature  
+- Hydro Pump  
+- Surf  
+- Hidden Power
+- Rain Dance  
+
+Koffing @ Sitrus Berry  
+Ability: Levitate  
+Tera Type: Water
+Level: 5  
+EVs: 116 HP / 76 Atk / 236 Def / 80 Spe  
+Impish Nature  
+- Sludge Bomb  
+- Hidden Power  
+- Thief  
+- Explosion  
+
+Magnemite @ Sitrus Berry  
+Ability: Sturdy  
+Tera Type: Grass
+Level: 5  
+EVs: 36 Def / 240 SpA / 76 SpD / 156 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hidden Power
+- Toxic  
+- Substitute  
+
+Pineco @ Sitrus Berry  
+Ability: Sturdy  
+Level: 5  
+EVs: 196 HP / 40 Def / 240 SpD  
+Careful Nature  
+- Spikes  
+- Rapid Spin  
+- Light Screen  
+- Explosion  
+
+Duskull @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 196 HP / 36 Atk / 196 Def / 40 SpA / 40 SpD  
+Relaxed Nature  
+- Shadow Ball  
+- Icy Wind  
+- Thief  
+- Memento  
+
+Spoink  
+Ability: Thick Fat  
+Level: 5  
+EVs: 36 HP / 156 Def / 116 SpD / 196 Spe  
+Bold Nature  
+- Thief  
+- Psychic  
+- Icy Wind  
+- Taunt  
 
 
 
@@ -20248,7 +21878,6 @@ Ability: Static
 Level: 5  
 EVs: 240 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Thunderbolt  
 - Ice Punch  
 - Thief  
@@ -20291,7 +21920,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 HP / 76 Def / 120 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Hydro Pump  
 - Thunderbolt  
 - Ice Beam  
@@ -20302,7 +21930,6 @@ Ability: Sand Veil
 Level: 5  
 EVs: 196 HP / 116 Def / 196 SpD  
 Bold Nature  
-IVs: 2 Atk / 30 SpA  
 - Spikes  
 - Giga Drain  
 - Encore  
@@ -20325,7 +21952,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 Def / 200 SpA / 116 SpD / 156 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 SpA  
 - Fire Blast  
 - Crunch  
 - Hidden Power
@@ -20337,7 +21963,6 @@ Tera Type: Ice
 Level: 5  
 EVs: 76 HP / 80 Def / 236 SpA / 116 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 Def  
 - Sunny Day  
 - Solar Beam  
 - Hidden Power
@@ -20345,23 +21970,99 @@ IVs: 2 Atk / 30 Def
 
 Ponyta @ Sitrus Berry  
 Ability: Flash Fire  
-Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
-Timid Nature  
-- Sunny Day  
-- Fire Blast  
-- Solar Beam  
-- Substitute  
-
-Ponyta @ Sitrus Berry  
-Ability: Flash Fire  
+Tera Type: Grass
 Level: 5  
 EVs: 236 SpA / 76 SpD / 196 Spe  
 Hasty Nature  
 - Substitute  
 - Overheat  
-- Body Slam  
+- Hidden Power
 - Toxic  
+
+Bagon @ Sitrus Berry  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 76 HP / 76 Atk / 40 Def / 200 SpD / 116 Spe  
+Careful Nature  
+- Double-Edge  
+- Brick Break  
+- Hidden Power
+- Dragon Dance  
+
+Cubone @ Thick Club  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 36 HP / 196 Atk / 40 SpD / 236 Spe  
+Adamant Nature  
+- Bonemerang  
+- Double-Edge  
+- Hidden Power
+- Protect  
+
+Horsea @ Sitrus Berry  
+Ability: Swift Swim  
+Tera Type: Grass
+Level: 5  
+EVs: 36 HP / 36 Def / 200 SpA / 196 Spe  
+Modest Nature  
+- Hydro Pump  
+- Surf  
+- Hidden Power
+- Rain Dance  
+
+Koffing @ Sitrus Berry  
+Ability: Levitate  
+Tera Type: Water
+Level: 5  
+EVs: 116 HP / 76 Atk / 236 Def / 80 Spe  
+Impish Nature  
+- Sludge Bomb  
+- Hidden Power  
+- Thief  
+- Explosion  
+
+Magnemite @ Sitrus Berry  
+Ability: Sturdy  
+Tera Type: Grass
+Level: 5  
+EVs: 36 Def / 240 SpA / 76 SpD / 156 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hidden Power
+- Toxic  
+- Substitute  
+
+Pineco @ Sitrus Berry  
+Ability: Sturdy  
+Level: 5  
+EVs: 196 HP / 40 Def / 240 SpD  
+Careful Nature  
+- Spikes  
+- Rapid Spin  
+- Light Screen  
+- Explosion  
+
+Duskull @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 196 HP / 36 Atk / 196 Def / 40 SpA / 40 SpD  
+Relaxed Nature  
+- Shadow Ball  
+- Icy Wind  
+- Thief  
+- Memento  
+
+Spoink  
+Ability: Thick Fat  
+Level: 5  
+EVs: 36 HP / 156 Def / 116 SpD / 196 Spe  
+Bold Nature  
+- Thief  
+- Psychic  
+- Icy Wind  
+- Taunt  
 
 
 
@@ -21436,7 +23137,6 @@ Ability: Static
 Level: 5  
 EVs: 240 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Thunderbolt  
 - Ice Punch  
 - Thief  
@@ -21479,7 +23179,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 HP / 76 Def / 120 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Hydro Pump  
 - Thunderbolt  
 - Ice Beam  
@@ -21490,7 +23189,6 @@ Ability: Sand Veil
 Level: 5  
 EVs: 196 HP / 116 Def / 196 SpD  
 Bold Nature  
-IVs: 2 Atk / 30 SpA  
 - Spikes  
 - Giga Drain  
 - Encore  
@@ -21513,7 +23211,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 Def / 200 SpA / 116 SpD / 156 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 SpA  
 - Fire Blast  
 - Crunch  
 - Hidden Power
@@ -21525,7 +23222,6 @@ Tera Type: Ice
 Level: 5  
 EVs: 76 HP / 80 Def / 236 SpA / 116 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 Def  
 - Sunny Day  
 - Solar Beam  
 - Hidden Power
@@ -21533,23 +23229,99 @@ IVs: 2 Atk / 30 Def
 
 Ponyta @ Sitrus Berry  
 Ability: Flash Fire  
-Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
-Timid Nature  
-- Sunny Day  
-- Fire Blast  
-- Solar Beam  
-- Substitute  
-
-Ponyta @ Sitrus Berry  
-Ability: Flash Fire  
+Tera Type: Grass
 Level: 5  
 EVs: 236 SpA / 76 SpD / 196 Spe  
 Hasty Nature  
 - Substitute  
 - Overheat  
-- Body Slam  
+- Hidden Power
 - Toxic  
+
+Bagon @ Sitrus Berry  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 76 HP / 76 Atk / 40 Def / 200 SpD / 116 Spe  
+Careful Nature  
+- Double-Edge  
+- Brick Break  
+- Hidden Power
+- Dragon Dance  
+
+Cubone @ Thick Club  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 36 HP / 196 Atk / 40 SpD / 236 Spe  
+Adamant Nature  
+- Bonemerang  
+- Double-Edge  
+- Hidden Power
+- Protect  
+
+Horsea @ Sitrus Berry  
+Ability: Swift Swim  
+Tera Type: Grass
+Level: 5  
+EVs: 36 HP / 36 Def / 200 SpA / 196 Spe  
+Modest Nature  
+- Hydro Pump  
+- Surf  
+- Hidden Power
+- Rain Dance  
+
+Koffing @ Sitrus Berry  
+Ability: Levitate  
+Tera Type: Water
+Level: 5  
+EVs: 116 HP / 76 Atk / 236 Def / 80 Spe  
+Impish Nature  
+- Sludge Bomb  
+- Hidden Power  
+- Thief  
+- Explosion  
+
+Magnemite @ Sitrus Berry  
+Ability: Sturdy  
+Tera Type: Grass
+Level: 5  
+EVs: 36 Def / 240 SpA / 76 SpD / 156 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hidden Power
+- Toxic  
+- Substitute  
+
+Pineco @ Sitrus Berry  
+Ability: Sturdy  
+Level: 5  
+EVs: 196 HP / 40 Def / 240 SpD  
+Careful Nature  
+- Spikes  
+- Rapid Spin  
+- Light Screen  
+- Explosion  
+
+Duskull @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 196 HP / 36 Atk / 196 Def / 40 SpA / 40 SpD  
+Relaxed Nature  
+- Shadow Ball  
+- Icy Wind  
+- Thief  
+- Memento  
+
+Spoink  
+Ability: Thick Fat  
+Level: 5  
+EVs: 36 HP / 156 Def / 116 SpD / 196 Spe  
+Bold Nature  
+- Thief  
+- Psychic  
+- Icy Wind  
+- Taunt  
 
 
 
@@ -21754,7 +23526,6 @@ Ability: Static
 Level: 5  
 EVs: 240 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Thunderbolt  
 - Ice Punch  
 - Thief  
@@ -21797,7 +23568,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 HP / 76 Def / 120 SpA / 236 Spe  
 Timid Nature  
-IVs: 2 Atk / 30 SpA  
 - Hydro Pump  
 - Thunderbolt  
 - Ice Beam  
@@ -21808,7 +23578,6 @@ Ability: Sand Veil
 Level: 5  
 EVs: 196 HP / 116 Def / 196 SpD  
 Bold Nature  
-IVs: 2 Atk / 30 SpA  
 - Spikes  
 - Giga Drain  
 - Encore  
@@ -21831,7 +23600,6 @@ Tera Type: Grass
 Level: 5  
 EVs: 36 Def / 200 SpA / 116 SpD / 156 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 SpA  
 - Fire Blast  
 - Crunch  
 - Hidden Power
@@ -21843,7 +23611,6 @@ Tera Type: Ice
 Level: 5  
 EVs: 76 HP / 80 Def / 236 SpA / 116 Spe  
 Modest Nature  
-IVs: 2 Atk / 30 Def  
 - Sunny Day  
 - Solar Beam  
 - Hidden Power
@@ -21851,23 +23618,99 @@ IVs: 2 Atk / 30 Def
 
 Ponyta @ Sitrus Berry  
 Ability: Flash Fire  
-Level: 5  
-EVs: 76 Def / 236 SpA / 196 Spe  
-Timid Nature  
-- Sunny Day  
-- Fire Blast  
-- Solar Beam  
-- Substitute  
-
-Ponyta @ Sitrus Berry  
-Ability: Flash Fire  
+Tera Type: Grass
 Level: 5  
 EVs: 236 SpA / 76 SpD / 196 Spe  
 Hasty Nature  
 - Substitute  
 - Overheat  
-- Body Slam  
+- Hidden Power
 - Toxic  
+
+Bagon @ Sitrus Berry  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 76 HP / 76 Atk / 40 Def / 200 SpD / 116 Spe  
+Careful Nature  
+- Double-Edge  
+- Brick Break  
+- Hidden Power
+- Dragon Dance  
+
+Cubone @ Thick Club  
+Ability: Rock Head  
+Tera Type: Ghost
+Level: 5
+EVs: 36 HP / 196 Atk / 40 SpD / 236 Spe  
+Adamant Nature  
+- Bonemerang  
+- Double-Edge  
+- Hidden Power
+- Protect  
+
+Horsea @ Sitrus Berry  
+Ability: Swift Swim  
+Tera Type: Grass
+Level: 5  
+EVs: 36 HP / 36 Def / 200 SpA / 196 Spe  
+Modest Nature  
+- Hydro Pump  
+- Surf  
+- Hidden Power
+- Rain Dance  
+
+Koffing @ Sitrus Berry  
+Ability: Levitate  
+Tera Type: Water
+Level: 5  
+EVs: 116 HP / 76 Atk / 236 Def / 80 Spe  
+Impish Nature  
+- Sludge Bomb  
+- Hidden Power  
+- Thief  
+- Explosion  
+
+Magnemite @ Sitrus Berry  
+Ability: Sturdy  
+Tera Type: Grass
+Level: 5  
+EVs: 36 Def / 240 SpA / 76 SpD / 156 Spe  
+Modest Nature  
+- Thunderbolt  
+- Hidden Power
+- Toxic  
+- Substitute  
+
+Pineco @ Sitrus Berry  
+Ability: Sturdy  
+Level: 5  
+EVs: 196 HP / 40 Def / 240 SpD  
+Careful Nature  
+- Spikes  
+- Rapid Spin  
+- Light Screen  
+- Explosion  
+
+Duskull @ Sitrus Berry  
+Ability: Levitate  
+Level: 5  
+EVs: 196 HP / 36 Atk / 196 Def / 40 SpA / 40 SpD  
+Relaxed Nature  
+- Shadow Ball  
+- Icy Wind  
+- Thief  
+- Memento  
+
+Spoink  
+Ability: Thick Fat  
+Level: 5  
+EVs: 36 HP / 156 Def / 116 SpD / 196 Spe  
+Bold Nature  
+- Thief  
+- Psychic  
+- Icy Wind  
+- Taunt  
 
 
 
