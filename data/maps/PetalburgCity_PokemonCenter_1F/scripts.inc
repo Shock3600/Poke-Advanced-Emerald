@@ -53,31 +53,23 @@ PetalburgCity_PokemonCenter_1F_EventScript_SayMudkipType::
 	return
 
 PetalburgCity_PokemonCenter_1F_EventScript_Tera_Ghost::
-    waitstate
     setteratype TYPE_GHOST, 0
 	msgbox PetalburgCity_PokemonCenter_1F_Text_Tera_Ghost, MSGBOX_NPC
-    release
     end
 
 PetalburgCity_PokemonCenter_1F_EventScript_Tera_Grass::
-    waitstate
     setteratype TYPE_GRASS, 0
 	msgbox PetalburgCity_PokemonCenter_1F_Text_Tera_Grass, MSGBOX_NPC
-    release
     end
 
 PetalburgCity_PokemonCenter_1F_EventScript_Tera_Ice::
-    waitstate
     setteratype TYPE_ICE, 0
 	msgbox PetalburgCity_PokemonCenter_1F_Text_Tera_Ice, MSGBOX_NPC
-    release
     end
 
 PetalburgCity_PokemonCenter_1F_EventScript_Tera_Ground::
-    waitstate
     setteratype TYPE_GROUND, 0
 	msgbox PetalburgCity_PokemonCenter_1F_Text_Tera_Ground, MSGBOX_NPC
-    release
     end
 
 PetalburgCity_PokemonCenter_1F_EventScript_HyperTrain::
@@ -97,15 +89,15 @@ PetalburgCity_PokemonCenter_1F_Text_Tera_Ghost:
 
 PetalburgCity_PokemonCenter_1F_Text_Tera_Grass:
 	.string "Your first Pokemon's\n"
-	.string "HP type is now Ghost.$"
+	.string "HP type is now Grass.$"
 
 PetalburgCity_PokemonCenter_1F_Text_Tera_Ice:
 	.string "Your first Pokemon's\n"
-	.string "HP type is now Ghost.$"
+	.string "HP type is now Ice.$"
 
 PetalburgCity_PokemonCenter_1F_Text_Tera_Ground:
 	.string "Your first Pokemon's\n"
-	.string "HP type is now Ghost.$"
+	.string "HP type is now Ground.$"
 
 PetalburgCity_PokemonCenter_1F_Text_HyperTrain:
 	.string "Your first Pokemon's\n"
