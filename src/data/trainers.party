@@ -14096,12 +14096,9 @@ AI: Basic Trainer
 Gastly 
 Ability: Levitate  
 Level: 5  
-EVs: 156 Atk / 36 Def / 36 SpA / 76 SpD / 196 Spe  
 Hasty Nature  
 - Shadow Ball  
 - Sludge Bomb  
-- Thunderbolt  
-- Will-O-Wisp
 
 === TRAINER_BRENDAN_ROUTE_110_MUDKIP ===
 Name: BRENDAN
@@ -14218,12 +14215,9 @@ AI: Basic Trainer
 Gastly 
 Ability: Levitate  
 Level: 5  
-EVs: 156 Atk / 36 Def / 36 SpA / 76 SpD / 196 Spe  
 Hasty Nature  
 - Shadow Ball  
 - Sludge Bomb  
-- Thunderbolt  
-- Will-O-Wisp
 
 === TRAINER_BRENDAN_ROUTE_110_TORCHIC ===
 Name: BRENDAN
@@ -14278,14 +14272,10 @@ AI: Basic Trainer
 
 Gastly 
 Ability: Levitate  
-Tera Type: Grass
 Level: 5  
-EVs: 156 Atk / 36 Def / 36 SpA / 76 SpD / 196 Spe  
 Hasty Nature  
 - Shadow Ball  
 - Sludge Bomb  
-- Thunderbolt  
-- Will-O-Wisp
 
 === TRAINER_MAY_ROUTE_110_MUDKIP ===
 Name: MAY
@@ -14341,12 +14331,9 @@ AI: Basic Trainer
 Gastly 
 Ability: Levitate  
 Level: 5  
-EVs: 156 Atk / 36 Def / 36 SpA / 76 SpD / 196 Spe  
 Hasty Nature  
 - Shadow Ball  
 - Sludge Bomb  
-- Thunderbolt  
-- Will-O-Wisp
 
 === TRAINER_MAY_ROUTE_110_TREECKO ===
 Name: MAY
@@ -14402,12 +14389,9 @@ AI: Basic Trainer
 Gastly 
 Ability: Levitate  
 Level: 5  
-EVs: 156 Atk / 36 Def / 36 SpA / 76 SpD / 196 Spe  
 Hasty Nature  
 - Shadow Ball  
 - Sludge Bomb  
-- Thunderbolt  
-- Will-O-Wisp
 
 === TRAINER_MAY_ROUTE_110_TORCHIC ===
 Name: MAY
